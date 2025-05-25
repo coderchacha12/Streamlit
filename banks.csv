@@ -1,0 +1,1801 @@
+Month,UPI Remitter Banks,Total Volume (In Mn),Approved %,TD%,Debit Reversal Success %
+Apr 2022,State Bank Of India,1291.88,91.70%,1.21%,95.66%
+Apr 2022,HDFC Bank Ltd,406.61,94.01%,0.29%,91.30%
+Apr 2022,Bank of Baroda,299.12,92.13%,0.49%,98.88%
+Apr 2022,Union Bank of India,287.21,90.21%,0.97%,46.80%
+Apr 2022,ICICI Bank,274.0,95.14%,0.17%,69.88%
+Apr 2022,Paytm Payments Bank,262.28,94.95%,0.08%,94.04%
+Apr 2022,Axis Bank Ltd,243.68,95.25%,0.25%,97.79%
+Apr 2022,Punjab National Bank,213.48,92.49%,0.61%,90.03%
+Apr 2022,Canara Bank,206.3,92.47%,0.47%,92.99%
+Apr 2022,Kotak Mahindra Bank,186.34,94.30%,0.29%,86.27%
+Apr 2022,Bank of India,171.56,93.02%,1.60%,50.40%
+Apr 2022,Indian Bank,115.76,88.38%,5.33%,40.42%
+Apr 2022,Central Bank Of India,95.53,90.13%,2.90%,63.32%
+Apr 2022,IDBI Bank Limited,66.58,94.57%,0.75%,64.13%
+Apr 2022,Federal Bank,62.84,93.07%,1.55%,71.18%
+Apr 2022,Airtel Payments Bank,62.35,86.08%,1.98%,72.95%
+Apr 2022,Bank of Maharashtra,59.9,93.98%,0.66%,83.88%
+Apr 2022,Indian Overseas Bank,56.35,93.65%,0.32%,85.81%
+Apr 2022,Yes Bank Ltd,49.25,93.93%,0.15%,95.73%
+Apr 2022,UCO Bank,48.84,91.28%,1.25%,52.87%
+Apr 2022,India Post Payment Bank,46.7,76.03%,6.42%,15.73%
+Apr 2022,Karnataka Bank,43.45,88.64%,2.44%,32.26%
+Apr 2022,IndusInd Bank,39.77,90.66%,0.52%,92.96%
+Apr 2022,IDFC First Bank,27.57,92.69%,1.24%,32.94%
+Apr 2022,Karur Vysya Bank,27.44,90.87%,0.93%,66.96%
+Apr 2022,Fino Payments Bank,23.19,78.89%,2.44%,99.04%
+Apr 2022,Bandhan Bank,19.49,87.73%,1.28%,14.62%
+Apr 2022,South Indian Bank,19.31,92.59%,0.24%,95.71%
+Apr 2022,DBS Bank India Limited,17.27,92.94%,1.29%,53.46%
+Apr 2022,City Union Bank,14.54,89.16%,4.35%,66.19%
+Apr 2022,Citibank,14.16,94.68%,0.72%,99.50%
+Apr 2022,Equitas Small Finance Bank,13.53,83.50%,0.78%,82.94%
+Apr 2022,Andhra Pradesh Grameena Vikas Bank,12.37,67.73%,14.39%,5.74%
+Apr 2022,Standard Chartered,12.23,94.56%,2.00%,50.59%
+Apr 2022,Ujjivan Small Finance Bank,11.96,89.62%,2.57%,36.94%
+Apr 2022,Tamilnad Mercantile Bank,10.67,90.33%,0.91%,38.94%
+Apr 2022,Maharashtra Gramin Bank,10.52,82.13%,2.62%,15.73%
+Apr 2022,AU small Finance Bank,10.33,92.78%,0.86%,0.03%
+Apr 2022,Saraswat Bank,10.21,94.69%,0.43%,74.07%
+Apr 2022,Pragathi Krishna Gramin Bank,10.21,87.48%,1.11%,64.09%
+Apr 2022,Jammu and Kashmir Bank,9.8,89.15%,1.43%,79.09%
+Apr 2022,Punjab and Sind Bank,9.6,88.55%,0.37%,89.90%
+Apr 2022,Andhra Pragathi Grameena Bank,8.63,61.73%,5.04%,5.75%
+Apr 2022,Rajasthan Marudhara Gramin Bank,7.57,75.62%,10.19%,7.37%
+Apr 2022,Kerala Gramin Bank,7.18,87.13%,0.73%,87.28%
+Apr 2022,ESAF Small Finance Bank Ltd.,6.81,84.30%,3.81%,75.80%
+Apr 2022,RBL Bank,6.05,91.98%,0.15%,92.58%
+Apr 2022,Baroda Rajasthan Kshetriya Gramin Bank,5.75,87.79%,2.77%,33.87%
+Apr 2022,Sarva Haryana Gramin Bank,5.65,88.63%,3.19%,79.14%
+Apr 2022,Telangana Grameena bank,5.26,78.85%,5.96%,7.75%
+Apr 2023,State Bank Of India,1291.88,91.70%,1.21%,95.66%
+Apr 2023,HDFC Bank Ltd,406.61,94.01%,0.29%,91.30%
+Apr 2023,Bank of Baroda,299.12,92.13%,0.49%,98.88%
+Apr 2023,Union Bank of India,287.21,90.21%,0.97%,46.80%
+Apr 2023,ICICI Bank,274.0,95.14%,0.17%,69.88%
+Apr 2023,Paytm Payments Bank,262.28,94.95%,0.08%,94.04%
+Apr 2023,Axis Bank Ltd,243.68,95.25%,0.25%,97.79%
+Apr 2023,Punjab National Bank,213.48,92.49%,0.61%,90.03%
+Apr 2023,Canara Bank,206.3,92.47%,0.47%,92.99%
+Apr 2023,Kotak Mahindra Bank,186.34,94.30%,0.29%,86.27%
+Apr 2023,Bank of India,171.56,93.02%,1.60%,50.40%
+Apr 2023,Indian Bank,115.76,88.38%,5.33%,40.42%
+Apr 2023,Central Bank Of India,95.53,90.13%,2.90%,63.32%
+Apr 2023,IDBI Bank Limited,66.58,94.57%,0.75%,64.13%
+Apr 2023,Federal Bank,62.84,93.07%,1.55%,71.18%
+Apr 2023,Airtel Payments Bank,62.35,86.08%,1.98%,72.95%
+Apr 2023,Bank of Maharashtra,59.9,93.98%,0.66%,83.88%
+Apr 2023,Indian Overseas Bank,56.35,93.65%,0.32%,85.81%
+Apr 2023,Yes Bank Ltd,49.25,93.93%,0.15%,95.73%
+Apr 2023,UCO Bank,48.84,91.28%,1.25%,52.87%
+Apr 2023,India Post Payment Bank,46.7,76.03%,6.42%,15.73%
+Apr 2023,Karnataka Bank,43.45,88.64%,2.44%,32.26%
+Apr 2023,IndusInd Bank,39.77,90.66%,0.52%,92.96%
+Apr 2023,IDFC First Bank,27.57,92.69%,1.24%,32.94%
+Apr 2023,Karur Vysya Bank,27.44,90.87%,0.93%,66.96%
+Apr 2023,Fino Payments Bank,23.19,78.89%,2.44%,99.04%
+Apr 2023,Bandhan Bank,19.49,87.73%,1.28%,14.62%
+Apr 2023,South Indian Bank,19.31,92.59%,0.24%,95.71%
+Apr 2023,DBS Bank India Limited,17.27,92.94%,1.29%,53.46%
+Apr 2023,City Union Bank,14.54,89.16%,4.35%,66.19%
+Apr 2023,Citibank,14.16,94.68%,0.72%,99.50%
+Apr 2023,Equitas Small Finance Bank,13.53,83.50%,0.78%,82.94%
+Apr 2023,Andhra Pradesh Grameena Vikas Bank,12.37,67.73%,14.39%,5.74%
+Apr 2023,Standard Chartered,12.23,94.56%,2.00%,50.59%
+Apr 2023,Ujjivan Small Finance Bank,11.96,89.62%,2.57%,36.94%
+Apr 2023,Tamilnad Mercantile Bank,10.67,90.33%,0.91%,38.94%
+Apr 2023,Maharashtra Gramin Bank,10.52,82.13%,2.62%,15.73%
+Apr 2023,AU small Finance Bank,10.33,92.78%,0.86%,0.03%
+Apr 2023,Saraswat Bank,10.21,94.69%,0.43%,74.07%
+Apr 2023,Pragathi Krishna Gramin Bank,10.21,87.48%,1.11%,64.09%
+Apr 2023,Jammu and Kashmir Bank,9.8,89.15%,1.43%,79.09%
+Apr 2023,Punjab and Sind Bank,9.6,88.55%,0.37%,89.90%
+Apr 2023,Andhra Pragathi Grameena Bank,8.63,61.73%,5.04%,5.75%
+Apr 2023,Rajasthan Marudhara Gramin Bank,7.57,75.62%,10.19%,7.37%
+Apr 2023,Kerala Gramin Bank,7.18,87.13%,0.73%,87.28%
+Apr 2023,ESAF Small Finance Bank Ltd.,6.81,84.30%,3.81%,75.80%
+Apr 2023,RBL Bank,6.05,91.98%,0.15%,92.58%
+Apr 2023,Baroda Rajasthan Kshetriya Gramin Bank,5.75,87.79%,2.77%,33.87%
+Apr 2023,Sarva Haryana Gramin Bank,5.65,88.63%,3.19%,79.14%
+Apr 2023,Telangana Grameena bank,5.26,78.85%,5.96%,7.75%
+Apr 2024,State Bank Of India,1291.88,91.70%,1.21%,95.66%
+Apr 2024,HDFC Bank Ltd,406.61,94.01%,0.29%,91.30%
+Apr 2024,Bank of Baroda,299.12,92.13%,0.49%,98.88%
+Apr 2024,Union Bank of India,287.21,90.21%,0.97%,46.80%
+Apr 2024,ICICI Bank,274.0,95.14%,0.17%,69.88%
+Apr 2024,Paytm Payments Bank,262.28,94.95%,0.08%,94.04%
+Apr 2024,Axis Bank Ltd,243.68,95.25%,0.25%,97.79%
+Apr 2024,Punjab National Bank,213.48,92.49%,0.61%,90.03%
+Apr 2024,Canara Bank,206.3,92.47%,0.47%,92.99%
+Apr 2024,Kotak Mahindra Bank,186.34,94.30%,0.29%,86.27%
+Apr 2024,Bank of India,171.56,93.02%,1.60%,50.40%
+Apr 2024,Indian Bank,115.76,88.38%,5.33%,40.42%
+Apr 2024,Central Bank Of India,95.53,90.13%,2.90%,63.32%
+Apr 2024,IDBI Bank Limited,66.58,94.57%,0.75%,64.13%
+Apr 2024,Federal Bank,62.84,93.07%,1.55%,71.18%
+Apr 2024,Airtel Payments Bank,62.35,86.08%,1.98%,72.95%
+Apr 2024,Bank of Maharashtra,59.9,93.98%,0.66%,83.88%
+Apr 2024,Indian Overseas Bank,56.35,93.65%,0.32%,85.81%
+Apr 2024,Yes Bank Ltd,49.25,93.93%,0.15%,95.73%
+Apr 2024,UCO Bank,48.84,91.28%,1.25%,52.87%
+Apr 2024,India Post Payment Bank,46.7,76.03%,6.42%,15.73%
+Apr 2024,Karnataka Bank,43.45,88.64%,2.44%,32.26%
+Apr 2024,IndusInd Bank,39.77,90.66%,0.52%,92.96%
+Apr 2024,IDFC First Bank,27.57,92.69%,1.24%,32.94%
+Apr 2024,Karur Vysya Bank,27.44,90.87%,0.93%,66.96%
+Apr 2024,Fino Payments Bank,23.19,78.89%,2.44%,99.04%
+Apr 2024,Bandhan Bank,19.49,87.73%,1.28%,14.62%
+Apr 2024,South Indian Bank,19.31,92.59%,0.24%,95.71%
+Apr 2024,DBS Bank India Limited,17.27,92.94%,1.29%,53.46%
+Apr 2024,City Union Bank,14.54,89.16%,4.35%,66.19%
+Apr 2024,Citibank,14.16,94.68%,0.72%,99.50%
+Apr 2024,Equitas Small Finance Bank,13.53,83.50%,0.78%,82.94%
+Apr 2024,Andhra Pradesh Grameena Vikas Bank,12.37,67.73%,14.39%,5.74%
+Apr 2024,Standard Chartered,12.23,94.56%,2.00%,50.59%
+Apr 2024,Ujjivan Small Finance Bank,11.96,89.62%,2.57%,36.94%
+Apr 2024,Tamilnad Mercantile Bank,10.67,90.33%,0.91%,38.94%
+Apr 2024,Maharashtra Gramin Bank,10.52,82.13%,2.62%,15.73%
+Apr 2024,AU small Finance Bank,10.33,92.78%,0.86%,0.03%
+Apr 2024,Saraswat Bank,10.21,94.69%,0.43%,74.07%
+Apr 2024,Pragathi Krishna Gramin Bank,10.21,87.48%,1.11%,64.09%
+Apr 2024,Jammu and Kashmir Bank,9.8,89.15%,1.43%,79.09%
+Apr 2024,Punjab and Sind Bank,9.6,88.55%,0.37%,89.90%
+Apr 2024,Andhra Pragathi Grameena Bank,8.63,61.73%,5.04%,5.75%
+Apr 2024,Rajasthan Marudhara Gramin Bank,7.57,75.62%,10.19%,7.37%
+Apr 2024,Kerala Gramin Bank,7.18,87.13%,0.73%,87.28%
+Apr 2024,ESAF Small Finance Bank Ltd.,6.81,84.30%,3.81%,75.80%
+Apr 2024,RBL Bank,6.05,91.98%,0.15%,92.58%
+Apr 2024,Baroda Rajasthan Kshetriya Gramin Bank,5.75,87.79%,2.77%,33.87%
+Apr 2024,Sarva Haryana Gramin Bank,5.65,88.63%,3.19%,79.14%
+Apr 2024,Telangana Grameena bank,5.26,78.85%,5.96%,7.75%
+Aug 2022,State Bank Of India,1291.88,91.70%,1.21%,95.66%
+Aug 2022,HDFC Bank Ltd,406.61,94.01%,0.29%,91.30%
+Aug 2022,Bank of Baroda,299.12,92.13%,0.49%,98.88%
+Aug 2022,Union Bank of India,287.21,90.21%,0.97%,46.80%
+Aug 2022,ICICI Bank,274.0,95.14%,0.17%,69.88%
+Aug 2022,Paytm Payments Bank,262.28,94.95%,0.08%,94.04%
+Aug 2022,Axis Bank Ltd,243.68,95.25%,0.25%,97.79%
+Aug 2022,Punjab National Bank,213.48,92.49%,0.61%,90.03%
+Aug 2022,Canara Bank,206.3,92.47%,0.47%,92.99%
+Aug 2022,Kotak Mahindra Bank,186.34,94.30%,0.29%,86.27%
+Aug 2022,Bank of India,171.56,93.02%,1.60%,50.40%
+Aug 2022,Indian Bank,115.76,88.38%,5.33%,40.42%
+Aug 2022,Central Bank Of India,95.53,90.13%,2.90%,63.32%
+Aug 2022,IDBI Bank Limited,66.58,94.57%,0.75%,64.13%
+Aug 2022,Federal Bank,62.84,93.07%,1.55%,71.18%
+Aug 2022,Airtel Payments Bank,62.35,86.08%,1.98%,72.95%
+Aug 2022,Bank of Maharashtra,59.9,93.98%,0.66%,83.88%
+Aug 2022,Indian Overseas Bank,56.35,93.65%,0.32%,85.81%
+Aug 2022,Yes Bank Ltd,49.25,93.93%,0.15%,95.73%
+Aug 2022,UCO Bank,48.84,91.28%,1.25%,52.87%
+Aug 2022,India Post Payment Bank,46.7,76.03%,6.42%,15.73%
+Aug 2022,Karnataka Bank,43.45,88.64%,2.44%,32.26%
+Aug 2022,IndusInd Bank,39.77,90.66%,0.52%,92.96%
+Aug 2022,IDFC First Bank,27.57,92.69%,1.24%,32.94%
+Aug 2022,Karur Vysya Bank,27.44,90.87%,0.93%,66.96%
+Aug 2022,Fino Payments Bank,23.19,78.89%,2.44%,99.04%
+Aug 2022,Bandhan Bank,19.49,87.73%,1.28%,14.62%
+Aug 2022,South Indian Bank,19.31,92.59%,0.24%,95.71%
+Aug 2022,DBS Bank India Limited,17.27,92.94%,1.29%,53.46%
+Aug 2022,City Union Bank,14.54,89.16%,4.35%,66.19%
+Aug 2022,Citibank,14.16,94.68%,0.72%,99.50%
+Aug 2022,Equitas Small Finance Bank,13.53,83.50%,0.78%,82.94%
+Aug 2022,Andhra Pradesh Grameena Vikas Bank,12.37,67.73%,14.39%,5.74%
+Aug 2022,Standard Chartered,12.23,94.56%,2.00%,50.59%
+Aug 2022,Ujjivan Small Finance Bank,11.96,89.62%,2.57%,36.94%
+Aug 2022,Tamilnad Mercantile Bank,10.67,90.33%,0.91%,38.94%
+Aug 2022,Maharashtra Gramin Bank,10.52,82.13%,2.62%,15.73%
+Aug 2022,AU small Finance Bank,10.33,92.78%,0.86%,0.03%
+Aug 2022,Saraswat Bank,10.21,94.69%,0.43%,74.07%
+Aug 2022,Pragathi Krishna Gramin Bank,10.21,87.48%,1.11%,64.09%
+Aug 2022,Jammu and Kashmir Bank,9.8,89.15%,1.43%,79.09%
+Aug 2022,Punjab and Sind Bank,9.6,88.55%,0.37%,89.90%
+Aug 2022,Andhra Pragathi Grameena Bank,8.63,61.73%,5.04%,5.75%
+Aug 2022,Rajasthan Marudhara Gramin Bank,7.57,75.62%,10.19%,7.37%
+Aug 2022,Kerala Gramin Bank,7.18,87.13%,0.73%,87.28%
+Aug 2022,ESAF Small Finance Bank Ltd.,6.81,84.30%,3.81%,75.80%
+Aug 2022,RBL Bank,6.05,91.98%,0.15%,92.58%
+Aug 2022,Baroda Rajasthan Kshetriya Gramin Bank,5.75,87.79%,2.77%,33.87%
+Aug 2022,Sarva Haryana Gramin Bank,5.65,88.63%,3.19%,79.14%
+Aug 2022,Telangana Grameena bank,5.26,78.85%,5.96%,7.75%
+Aug 2023,State Bank Of India,1291.88,91.70%,1.21%,95.66%
+Aug 2023,HDFC Bank Ltd,406.61,94.01%,0.29%,91.30%
+Aug 2023,Bank of Baroda,299.12,92.13%,0.49%,98.88%
+Aug 2023,Union Bank of India,287.21,90.21%,0.97%,46.80%
+Aug 2023,ICICI Bank,274.0,95.14%,0.17%,69.88%
+Aug 2023,Paytm Payments Bank,262.28,94.95%,0.08%,94.04%
+Aug 2023,Axis Bank Ltd,243.68,95.25%,0.25%,97.79%
+Aug 2023,Punjab National Bank,213.48,92.49%,0.61%,90.03%
+Aug 2023,Canara Bank,206.3,92.47%,0.47%,92.99%
+Aug 2023,Kotak Mahindra Bank,186.34,94.30%,0.29%,86.27%
+Aug 2023,Bank of India,171.56,93.02%,1.60%,50.40%
+Aug 2023,Indian Bank,115.76,88.38%,5.33%,40.42%
+Aug 2023,Central Bank Of India,95.53,90.13%,2.90%,63.32%
+Aug 2023,IDBI Bank Limited,66.58,94.57%,0.75%,64.13%
+Aug 2023,Federal Bank,62.84,93.07%,1.55%,71.18%
+Aug 2023,Airtel Payments Bank,62.35,86.08%,1.98%,72.95%
+Aug 2023,Bank of Maharashtra,59.9,93.98%,0.66%,83.88%
+Aug 2023,Indian Overseas Bank,56.35,93.65%,0.32%,85.81%
+Aug 2023,Yes Bank Ltd,49.25,93.93%,0.15%,95.73%
+Aug 2023,UCO Bank,48.84,91.28%,1.25%,52.87%
+Aug 2023,India Post Payment Bank,46.7,76.03%,6.42%,15.73%
+Aug 2023,Karnataka Bank,43.45,88.64%,2.44%,32.26%
+Aug 2023,IndusInd Bank,39.77,90.66%,0.52%,92.96%
+Aug 2023,IDFC First Bank,27.57,92.69%,1.24%,32.94%
+Aug 2023,Karur Vysya Bank,27.44,90.87%,0.93%,66.96%
+Aug 2023,Fino Payments Bank,23.19,78.89%,2.44%,99.04%
+Aug 2023,Bandhan Bank,19.49,87.73%,1.28%,14.62%
+Aug 2023,South Indian Bank,19.31,92.59%,0.24%,95.71%
+Aug 2023,DBS Bank India Limited,17.27,92.94%,1.29%,53.46%
+Aug 2023,City Union Bank,14.54,89.16%,4.35%,66.19%
+Aug 2023,Citibank,14.16,94.68%,0.72%,99.50%
+Aug 2023,Equitas Small Finance Bank,13.53,83.50%,0.78%,82.94%
+Aug 2023,Andhra Pradesh Grameena Vikas Bank,12.37,67.73%,14.39%,5.74%
+Aug 2023,Standard Chartered,12.23,94.56%,2.00%,50.59%
+Aug 2023,Ujjivan Small Finance Bank,11.96,89.62%,2.57%,36.94%
+Aug 2023,Tamilnad Mercantile Bank,10.67,90.33%,0.91%,38.94%
+Aug 2023,Maharashtra Gramin Bank,10.52,82.13%,2.62%,15.73%
+Aug 2023,AU small Finance Bank,10.33,92.78%,0.86%,0.03%
+Aug 2023,Saraswat Bank,10.21,94.69%,0.43%,74.07%
+Aug 2023,Pragathi Krishna Gramin Bank,10.21,87.48%,1.11%,64.09%
+Aug 2023,Jammu and Kashmir Bank,9.8,89.15%,1.43%,79.09%
+Aug 2023,Punjab and Sind Bank,9.6,88.55%,0.37%,89.90%
+Aug 2023,Andhra Pragathi Grameena Bank,8.63,61.73%,5.04%,5.75%
+Aug 2023,Rajasthan Marudhara Gramin Bank,7.57,75.62%,10.19%,7.37%
+Aug 2023,Kerala Gramin Bank,7.18,87.13%,0.73%,87.28%
+Aug 2023,ESAF Small Finance Bank Ltd.,6.81,84.30%,3.81%,75.80%
+Aug 2023,RBL Bank,6.05,91.98%,0.15%,92.58%
+Aug 2023,Baroda Rajasthan Kshetriya Gramin Bank,5.75,87.79%,2.77%,33.87%
+Aug 2023,Sarva Haryana Gramin Bank,5.65,88.63%,3.19%,79.14%
+Aug 2023,Telangana Grameena bank,5.26,78.85%,5.96%,7.75%
+Aug 2024,State Bank Of India,1291.88,91.70%,1.21%,95.66%
+Aug 2024,HDFC Bank Ltd,406.61,94.01%,0.29%,91.30%
+Aug 2024,Bank of Baroda,299.12,92.13%,0.49%,98.88%
+Aug 2024,Union Bank of India,287.21,90.21%,0.97%,46.80%
+Aug 2024,ICICI Bank,274.0,95.14%,0.17%,69.88%
+Aug 2024,Paytm Payments Bank,262.28,94.95%,0.08%,94.04%
+Aug 2024,Axis Bank Ltd,243.68,95.25%,0.25%,97.79%
+Aug 2024,Punjab National Bank,213.48,92.49%,0.61%,90.03%
+Aug 2024,Canara Bank,206.3,92.47%,0.47%,92.99%
+Aug 2024,Kotak Mahindra Bank,186.34,94.30%,0.29%,86.27%
+Aug 2024,Bank of India,171.56,93.02%,1.60%,50.40%
+Aug 2024,Indian Bank,115.76,88.38%,5.33%,40.42%
+Aug 2024,Central Bank Of India,95.53,90.13%,2.90%,63.32%
+Aug 2024,IDBI Bank Limited,66.58,94.57%,0.75%,64.13%
+Aug 2024,Federal Bank,62.84,93.07%,1.55%,71.18%
+Aug 2024,Airtel Payments Bank,62.35,86.08%,1.98%,72.95%
+Aug 2024,Bank of Maharashtra,59.9,93.98%,0.66%,83.88%
+Aug 2024,Indian Overseas Bank,56.35,93.65%,0.32%,85.81%
+Aug 2024,Yes Bank Ltd,49.25,93.93%,0.15%,95.73%
+Aug 2024,UCO Bank,48.84,91.28%,1.25%,52.87%
+Aug 2024,India Post Payment Bank,46.7,76.03%,6.42%,15.73%
+Aug 2024,Karnataka Bank,43.45,88.64%,2.44%,32.26%
+Aug 2024,IndusInd Bank,39.77,90.66%,0.52%,92.96%
+Aug 2024,IDFC First Bank,27.57,92.69%,1.24%,32.94%
+Aug 2024,Karur Vysya Bank,27.44,90.87%,0.93%,66.96%
+Aug 2024,Fino Payments Bank,23.19,78.89%,2.44%,99.04%
+Aug 2024,Bandhan Bank,19.49,87.73%,1.28%,14.62%
+Aug 2024,South Indian Bank,19.31,92.59%,0.24%,95.71%
+Aug 2024,DBS Bank India Limited,17.27,92.94%,1.29%,53.46%
+Aug 2024,City Union Bank,14.54,89.16%,4.35%,66.19%
+Aug 2024,Citibank,14.16,94.68%,0.72%,99.50%
+Aug 2024,Equitas Small Finance Bank,13.53,83.50%,0.78%,82.94%
+Aug 2024,Andhra Pradesh Grameena Vikas Bank,12.37,67.73%,14.39%,5.74%
+Aug 2024,Standard Chartered,12.23,94.56%,2.00%,50.59%
+Aug 2024,Ujjivan Small Finance Bank,11.96,89.62%,2.57%,36.94%
+Aug 2024,Tamilnad Mercantile Bank,10.67,90.33%,0.91%,38.94%
+Aug 2024,Maharashtra Gramin Bank,10.52,82.13%,2.62%,15.73%
+Aug 2024,AU small Finance Bank,10.33,92.78%,0.86%,0.03%
+Aug 2024,Saraswat Bank,10.21,94.69%,0.43%,74.07%
+Aug 2024,Pragathi Krishna Gramin Bank,10.21,87.48%,1.11%,64.09%
+Aug 2024,Jammu and Kashmir Bank,9.8,89.15%,1.43%,79.09%
+Aug 2024,Punjab and Sind Bank,9.6,88.55%,0.37%,89.90%
+Aug 2024,Andhra Pragathi Grameena Bank,8.63,61.73%,5.04%,5.75%
+Aug 2024,Rajasthan Marudhara Gramin Bank,7.57,75.62%,10.19%,7.37%
+Aug 2024,Kerala Gramin Bank,7.18,87.13%,0.73%,87.28%
+Aug 2024,ESAF Small Finance Bank Ltd.,6.81,84.30%,3.81%,75.80%
+Aug 2024,RBL Bank,6.05,91.98%,0.15%,92.58%
+Aug 2024,Baroda Rajasthan Kshetriya Gramin Bank,5.75,87.79%,2.77%,33.87%
+Aug 2024,Sarva Haryana Gramin Bank,5.65,88.63%,3.19%,79.14%
+Aug 2024,Telangana Grameena bank,5.26,78.85%,5.96%,7.75%
+Dec 2022,State Bank Of India,1291.88,91.70%,1.21%,95.66%
+Dec 2022,HDFC Bank Ltd,406.61,94.01%,0.29%,91.30%
+Dec 2022,Bank of Baroda,299.12,92.13%,0.49%,98.88%
+Dec 2022,Union Bank of India,287.21,90.21%,0.97%,46.80%
+Dec 2022,ICICI Bank,274.0,95.14%,0.17%,69.88%
+Dec 2022,Paytm Payments Bank,262.28,94.95%,0.08%,94.04%
+Dec 2022,Axis Bank Ltd,243.68,95.25%,0.25%,97.79%
+Dec 2022,Punjab National Bank,213.48,92.49%,0.61%,90.03%
+Dec 2022,Canara Bank,206.3,92.47%,0.47%,92.99%
+Dec 2022,Kotak Mahindra Bank,186.34,94.30%,0.29%,86.27%
+Dec 2022,Bank of India,171.56,93.02%,1.60%,50.40%
+Dec 2022,Indian Bank,115.76,88.38%,5.33%,40.42%
+Dec 2022,Central Bank Of India,95.53,90.13%,2.90%,63.32%
+Dec 2022,IDBI Bank Limited,66.58,94.57%,0.75%,64.13%
+Dec 2022,Federal Bank,62.84,93.07%,1.55%,71.18%
+Dec 2022,Airtel Payments Bank,62.35,86.08%,1.98%,72.95%
+Dec 2022,Bank of Maharashtra,59.9,93.98%,0.66%,83.88%
+Dec 2022,Indian Overseas Bank,56.35,93.65%,0.32%,85.81%
+Dec 2022,Yes Bank Ltd,49.25,93.93%,0.15%,95.73%
+Dec 2022,UCO Bank,48.84,91.28%,1.25%,52.87%
+Dec 2022,India Post Payment Bank,46.7,76.03%,6.42%,15.73%
+Dec 2022,Karnataka Bank,43.45,88.64%,2.44%,32.26%
+Dec 2022,IndusInd Bank,39.77,90.66%,0.52%,92.96%
+Dec 2022,IDFC First Bank,27.57,92.69%,1.24%,32.94%
+Dec 2022,Karur Vysya Bank,27.44,90.87%,0.93%,66.96%
+Dec 2022,Fino Payments Bank,23.19,78.89%,2.44%,99.04%
+Dec 2022,Bandhan Bank,19.49,87.73%,1.28%,14.62%
+Dec 2022,South Indian Bank,19.31,92.59%,0.24%,95.71%
+Dec 2022,DBS Bank India Limited,17.27,92.94%,1.29%,53.46%
+Dec 2022,City Union Bank,14.54,89.16%,4.35%,66.19%
+Dec 2022,Citibank,14.16,94.68%,0.72%,99.50%
+Dec 2022,Equitas Small Finance Bank,13.53,83.50%,0.78%,82.94%
+Dec 2022,Andhra Pradesh Grameena Vikas Bank,12.37,67.73%,14.39%,5.74%
+Dec 2022,Standard Chartered,12.23,94.56%,2.00%,50.59%
+Dec 2022,Ujjivan Small Finance Bank,11.96,89.62%,2.57%,36.94%
+Dec 2022,Tamilnad Mercantile Bank,10.67,90.33%,0.91%,38.94%
+Dec 2022,Maharashtra Gramin Bank,10.52,82.13%,2.62%,15.73%
+Dec 2022,AU small Finance Bank,10.33,92.78%,0.86%,0.03%
+Dec 2022,Saraswat Bank,10.21,94.69%,0.43%,74.07%
+Dec 2022,Pragathi Krishna Gramin Bank,10.21,87.48%,1.11%,64.09%
+Dec 2022,Jammu and Kashmir Bank,9.8,89.15%,1.43%,79.09%
+Dec 2022,Punjab and Sind Bank,9.6,88.55%,0.37%,89.90%
+Dec 2022,Andhra Pragathi Grameena Bank,8.63,61.73%,5.04%,5.75%
+Dec 2022,Rajasthan Marudhara Gramin Bank,7.57,75.62%,10.19%,7.37%
+Dec 2022,Kerala Gramin Bank,7.18,87.13%,0.73%,87.28%
+Dec 2022,ESAF Small Finance Bank Ltd.,6.81,84.30%,3.81%,75.80%
+Dec 2022,RBL Bank,6.05,91.98%,0.15%,92.58%
+Dec 2022,Baroda Rajasthan Kshetriya Gramin Bank,5.75,87.79%,2.77%,33.87%
+Dec 2022,Sarva Haryana Gramin Bank,5.65,88.63%,3.19%,79.14%
+Dec 2022,Telangana Grameena bank,5.26,78.85%,5.96%,7.75%
+Dec 2023,State Bank Of India,1291.88,91.70%,1.21%,95.66%
+Dec 2023,HDFC Bank Ltd,406.61,94.01%,0.29%,91.30%
+Dec 2023,Bank of Baroda,299.12,92.13%,0.49%,98.88%
+Dec 2023,Union Bank of India,287.21,90.21%,0.97%,46.80%
+Dec 2023,ICICI Bank,274.0,95.14%,0.17%,69.88%
+Dec 2023,Paytm Payments Bank,262.28,94.95%,0.08%,94.04%
+Dec 2023,Axis Bank Ltd,243.68,95.25%,0.25%,97.79%
+Dec 2023,Punjab National Bank,213.48,92.49%,0.61%,90.03%
+Dec 2023,Canara Bank,206.3,92.47%,0.47%,92.99%
+Dec 2023,Kotak Mahindra Bank,186.34,94.30%,0.29%,86.27%
+Dec 2023,Bank of India,171.56,93.02%,1.60%,50.40%
+Dec 2023,Indian Bank,115.76,88.38%,5.33%,40.42%
+Dec 2023,Central Bank Of India,95.53,90.13%,2.90%,63.32%
+Dec 2023,IDBI Bank Limited,66.58,94.57%,0.75%,64.13%
+Dec 2023,Federal Bank,62.84,93.07%,1.55%,71.18%
+Dec 2023,Airtel Payments Bank,62.35,86.08%,1.98%,72.95%
+Dec 2023,Bank of Maharashtra,59.9,93.98%,0.66%,83.88%
+Dec 2023,Indian Overseas Bank,56.35,93.65%,0.32%,85.81%
+Dec 2023,Yes Bank Ltd,49.25,93.93%,0.15%,95.73%
+Dec 2023,UCO Bank,48.84,91.28%,1.25%,52.87%
+Dec 2023,India Post Payment Bank,46.7,76.03%,6.42%,15.73%
+Dec 2023,Karnataka Bank,43.45,88.64%,2.44%,32.26%
+Dec 2023,IndusInd Bank,39.77,90.66%,0.52%,92.96%
+Dec 2023,IDFC First Bank,27.57,92.69%,1.24%,32.94%
+Dec 2023,Karur Vysya Bank,27.44,90.87%,0.93%,66.96%
+Dec 2023,Fino Payments Bank,23.19,78.89%,2.44%,99.04%
+Dec 2023,Bandhan Bank,19.49,87.73%,1.28%,14.62%
+Dec 2023,South Indian Bank,19.31,92.59%,0.24%,95.71%
+Dec 2023,DBS Bank India Limited,17.27,92.94%,1.29%,53.46%
+Dec 2023,City Union Bank,14.54,89.16%,4.35%,66.19%
+Dec 2023,Citibank,14.16,94.68%,0.72%,99.50%
+Dec 2023,Equitas Small Finance Bank,13.53,83.50%,0.78%,82.94%
+Dec 2023,Andhra Pradesh Grameena Vikas Bank,12.37,67.73%,14.39%,5.74%
+Dec 2023,Standard Chartered,12.23,94.56%,2.00%,50.59%
+Dec 2023,Ujjivan Small Finance Bank,11.96,89.62%,2.57%,36.94%
+Dec 2023,Tamilnad Mercantile Bank,10.67,90.33%,0.91%,38.94%
+Dec 2023,Maharashtra Gramin Bank,10.52,82.13%,2.62%,15.73%
+Dec 2023,AU small Finance Bank,10.33,92.78%,0.86%,0.03%
+Dec 2023,Saraswat Bank,10.21,94.69%,0.43%,74.07%
+Dec 2023,Pragathi Krishna Gramin Bank,10.21,87.48%,1.11%,64.09%
+Dec 2023,Jammu and Kashmir Bank,9.8,89.15%,1.43%,79.09%
+Dec 2023,Punjab and Sind Bank,9.6,88.55%,0.37%,89.90%
+Dec 2023,Andhra Pragathi Grameena Bank,8.63,61.73%,5.04%,5.75%
+Dec 2023,Rajasthan Marudhara Gramin Bank,7.57,75.62%,10.19%,7.37%
+Dec 2023,Kerala Gramin Bank,7.18,87.13%,0.73%,87.28%
+Dec 2023,ESAF Small Finance Bank Ltd.,6.81,84.30%,3.81%,75.80%
+Dec 2023,RBL Bank,6.05,91.98%,0.15%,92.58%
+Dec 2023,Baroda Rajasthan Kshetriya Gramin Bank,5.75,87.79%,2.77%,33.87%
+Dec 2023,Sarva Haryana Gramin Bank,5.65,88.63%,3.19%,79.14%
+Dec 2023,Telangana Grameena bank,5.26,78.85%,5.96%,7.75%
+Dec 2024,State Bank Of India,1291.88,91.70%,1.21%,95.66%
+Dec 2024,HDFC Bank Ltd,406.61,94.01%,0.29%,91.30%
+Dec 2024,Bank of Baroda,299.12,92.13%,0.49%,98.88%
+Dec 2024,Union Bank of India,287.21,90.21%,0.97%,46.80%
+Dec 2024,ICICI Bank,274.0,95.14%,0.17%,69.88%
+Dec 2024,Paytm Payments Bank,262.28,94.95%,0.08%,94.04%
+Dec 2024,Axis Bank Ltd,243.68,95.25%,0.25%,97.79%
+Dec 2024,Punjab National Bank,213.48,92.49%,0.61%,90.03%
+Dec 2024,Canara Bank,206.3,92.47%,0.47%,92.99%
+Dec 2024,Kotak Mahindra Bank,186.34,94.30%,0.29%,86.27%
+Dec 2024,Bank of India,171.56,93.02%,1.60%,50.40%
+Dec 2024,Indian Bank,115.76,88.38%,5.33%,40.42%
+Dec 2024,Central Bank Of India,95.53,90.13%,2.90%,63.32%
+Dec 2024,IDBI Bank Limited,66.58,94.57%,0.75%,64.13%
+Dec 2024,Federal Bank,62.84,93.07%,1.55%,71.18%
+Dec 2024,Airtel Payments Bank,62.35,86.08%,1.98%,72.95%
+Dec 2024,Bank of Maharashtra,59.9,93.98%,0.66%,83.88%
+Dec 2024,Indian Overseas Bank,56.35,93.65%,0.32%,85.81%
+Dec 2024,Yes Bank Ltd,49.25,93.93%,0.15%,95.73%
+Dec 2024,UCO Bank,48.84,91.28%,1.25%,52.87%
+Dec 2024,India Post Payment Bank,46.7,76.03%,6.42%,15.73%
+Dec 2024,Karnataka Bank,43.45,88.64%,2.44%,32.26%
+Dec 2024,IndusInd Bank,39.77,90.66%,0.52%,92.96%
+Dec 2024,IDFC First Bank,27.57,92.69%,1.24%,32.94%
+Dec 2024,Karur Vysya Bank,27.44,90.87%,0.93%,66.96%
+Dec 2024,Fino Payments Bank,23.19,78.89%,2.44%,99.04%
+Dec 2024,Bandhan Bank,19.49,87.73%,1.28%,14.62%
+Dec 2024,South Indian Bank,19.31,92.59%,0.24%,95.71%
+Dec 2024,DBS Bank India Limited,17.27,92.94%,1.29%,53.46%
+Dec 2024,City Union Bank,14.54,89.16%,4.35%,66.19%
+Dec 2024,Citibank,14.16,94.68%,0.72%,99.50%
+Dec 2024,Equitas Small Finance Bank,13.53,83.50%,0.78%,82.94%
+Dec 2024,Andhra Pradesh Grameena Vikas Bank,12.37,67.73%,14.39%,5.74%
+Dec 2024,Standard Chartered,12.23,94.56%,2.00%,50.59%
+Dec 2024,Ujjivan Small Finance Bank,11.96,89.62%,2.57%,36.94%
+Dec 2024,Tamilnad Mercantile Bank,10.67,90.33%,0.91%,38.94%
+Dec 2024,Maharashtra Gramin Bank,10.52,82.13%,2.62%,15.73%
+Dec 2024,AU small Finance Bank,10.33,92.78%,0.86%,0.03%
+Dec 2024,Saraswat Bank,10.21,94.69%,0.43%,74.07%
+Dec 2024,Pragathi Krishna Gramin Bank,10.21,87.48%,1.11%,64.09%
+Dec 2024,Jammu and Kashmir Bank,9.8,89.15%,1.43%,79.09%
+Dec 2024,Punjab and Sind Bank,9.6,88.55%,0.37%,89.90%
+Dec 2024,Andhra Pragathi Grameena Bank,8.63,61.73%,5.04%,5.75%
+Dec 2024,Rajasthan Marudhara Gramin Bank,7.57,75.62%,10.19%,7.37%
+Dec 2024,Kerala Gramin Bank,7.18,87.13%,0.73%,87.28%
+Dec 2024,ESAF Small Finance Bank Ltd.,6.81,84.30%,3.81%,75.80%
+Dec 2024,RBL Bank,6.05,91.98%,0.15%,92.58%
+Dec 2024,Baroda Rajasthan Kshetriya Gramin Bank,5.75,87.79%,2.77%,33.87%
+Dec 2024,Sarva Haryana Gramin Bank,5.65,88.63%,3.19%,79.14%
+Dec 2024,Telangana Grameena bank,5.26,78.85%,5.96%,7.75%
+Feb 2022,State Bank Of India,1291.88,91.70%,1.21%,95.66%
+Feb 2022,HDFC Bank Ltd,406.61,94.01%,0.29%,91.30%
+Feb 2022,Bank of Baroda,299.12,92.13%,0.49%,98.88%
+Feb 2022,Union Bank of India,287.21,90.21%,0.97%,46.80%
+Feb 2022,ICICI Bank,274.0,95.14%,0.17%,69.88%
+Feb 2022,Paytm Payments Bank,262.28,94.95%,0.08%,94.04%
+Feb 2022,Axis Bank Ltd,243.68,95.25%,0.25%,97.79%
+Feb 2022,Punjab National Bank,213.48,92.49%,0.61%,90.03%
+Feb 2022,Canara Bank,206.3,92.47%,0.47%,92.99%
+Feb 2022,Kotak Mahindra Bank,186.34,94.30%,0.29%,86.27%
+Feb 2022,Bank of India,171.56,93.02%,1.60%,50.40%
+Feb 2022,Indian Bank,115.76,88.38%,5.33%,40.42%
+Feb 2022,Central Bank Of India,95.53,90.13%,2.90%,63.32%
+Feb 2022,IDBI Bank Limited,66.58,94.57%,0.75%,64.13%
+Feb 2022,Federal Bank,62.84,93.07%,1.55%,71.18%
+Feb 2022,Airtel Payments Bank,62.35,86.08%,1.98%,72.95%
+Feb 2022,Bank of Maharashtra,59.9,93.98%,0.66%,83.88%
+Feb 2022,Indian Overseas Bank,56.35,93.65%,0.32%,85.81%
+Feb 2022,Yes Bank Ltd,49.25,93.93%,0.15%,95.73%
+Feb 2022,UCO Bank,48.84,91.28%,1.25%,52.87%
+Feb 2022,India Post Payment Bank,46.7,76.03%,6.42%,15.73%
+Feb 2022,Karnataka Bank,43.45,88.64%,2.44%,32.26%
+Feb 2022,IndusInd Bank,39.77,90.66%,0.52%,92.96%
+Feb 2022,IDFC First Bank,27.57,92.69%,1.24%,32.94%
+Feb 2022,Karur Vysya Bank,27.44,90.87%,0.93%,66.96%
+Feb 2022,Fino Payments Bank,23.19,78.89%,2.44%,99.04%
+Feb 2022,Bandhan Bank,19.49,87.73%,1.28%,14.62%
+Feb 2022,South Indian Bank,19.31,92.59%,0.24%,95.71%
+Feb 2022,DBS Bank India Limited,17.27,92.94%,1.29%,53.46%
+Feb 2022,City Union Bank,14.54,89.16%,4.35%,66.19%
+Feb 2022,Citibank,14.16,94.68%,0.72%,99.50%
+Feb 2022,Equitas Small Finance Bank,13.53,83.50%,0.78%,82.94%
+Feb 2022,Andhra Pradesh Grameena Vikas Bank,12.37,67.73%,14.39%,5.74%
+Feb 2022,Standard Chartered,12.23,94.56%,2.00%,50.59%
+Feb 2022,Ujjivan Small Finance Bank,11.96,89.62%,2.57%,36.94%
+Feb 2022,Tamilnad Mercantile Bank,10.67,90.33%,0.91%,38.94%
+Feb 2022,Maharashtra Gramin Bank,10.52,82.13%,2.62%,15.73%
+Feb 2022,AU small Finance Bank,10.33,92.78%,0.86%,0.03%
+Feb 2022,Saraswat Bank,10.21,94.69%,0.43%,74.07%
+Feb 2022,Pragathi Krishna Gramin Bank,10.21,87.48%,1.11%,64.09%
+Feb 2022,Jammu and Kashmir Bank,9.8,89.15%,1.43%,79.09%
+Feb 2022,Punjab and Sind Bank,9.6,88.55%,0.37%,89.90%
+Feb 2022,Andhra Pragathi Grameena Bank,8.63,61.73%,5.04%,5.75%
+Feb 2022,Rajasthan Marudhara Gramin Bank,7.57,75.62%,10.19%,7.37%
+Feb 2022,Kerala Gramin Bank,7.18,87.13%,0.73%,87.28%
+Feb 2022,ESAF Small Finance Bank Ltd.,6.81,84.30%,3.81%,75.80%
+Feb 2022,RBL Bank,6.05,91.98%,0.15%,92.58%
+Feb 2022,Baroda Rajasthan Kshetriya Gramin Bank,5.75,87.79%,2.77%,33.87%
+Feb 2022,Sarva Haryana Gramin Bank,5.65,88.63%,3.19%,79.14%
+Feb 2022,Telangana Grameena bank,5.26,78.85%,5.96%,7.75%
+Feb 2023,State Bank Of India,1291.88,91.70%,1.21%,95.66%
+Feb 2023,HDFC Bank Ltd,406.61,94.01%,0.29%,91.30%
+Feb 2023,Bank of Baroda,299.12,92.13%,0.49%,98.88%
+Feb 2023,Union Bank of India,287.21,90.21%,0.97%,46.80%
+Feb 2023,ICICI Bank,274.0,95.14%,0.17%,69.88%
+Feb 2023,Paytm Payments Bank,262.28,94.95%,0.08%,94.04%
+Feb 2023,Axis Bank Ltd,243.68,95.25%,0.25%,97.79%
+Feb 2023,Punjab National Bank,213.48,92.49%,0.61%,90.03%
+Feb 2023,Canara Bank,206.3,92.47%,0.47%,92.99%
+Feb 2023,Kotak Mahindra Bank,186.34,94.30%,0.29%,86.27%
+Feb 2023,Bank of India,171.56,93.02%,1.60%,50.40%
+Feb 2023,Indian Bank,115.76,88.38%,5.33%,40.42%
+Feb 2023,Central Bank Of India,95.53,90.13%,2.90%,63.32%
+Feb 2023,IDBI Bank Limited,66.58,94.57%,0.75%,64.13%
+Feb 2023,Federal Bank,62.84,93.07%,1.55%,71.18%
+Feb 2023,Airtel Payments Bank,62.35,86.08%,1.98%,72.95%
+Feb 2023,Bank of Maharashtra,59.9,93.98%,0.66%,83.88%
+Feb 2023,Indian Overseas Bank,56.35,93.65%,0.32%,85.81%
+Feb 2023,Yes Bank Ltd,49.25,93.93%,0.15%,95.73%
+Feb 2023,UCO Bank,48.84,91.28%,1.25%,52.87%
+Feb 2023,India Post Payment Bank,46.7,76.03%,6.42%,15.73%
+Feb 2023,Karnataka Bank,43.45,88.64%,2.44%,32.26%
+Feb 2023,IndusInd Bank,39.77,90.66%,0.52%,92.96%
+Feb 2023,IDFC First Bank,27.57,92.69%,1.24%,32.94%
+Feb 2023,Karur Vysya Bank,27.44,90.87%,0.93%,66.96%
+Feb 2023,Fino Payments Bank,23.19,78.89%,2.44%,99.04%
+Feb 2023,Bandhan Bank,19.49,87.73%,1.28%,14.62%
+Feb 2023,South Indian Bank,19.31,92.59%,0.24%,95.71%
+Feb 2023,DBS Bank India Limited,17.27,92.94%,1.29%,53.46%
+Feb 2023,City Union Bank,14.54,89.16%,4.35%,66.19%
+Feb 2023,Citibank,14.16,94.68%,0.72%,99.50%
+Feb 2023,Equitas Small Finance Bank,13.53,83.50%,0.78%,82.94%
+Feb 2023,Andhra Pradesh Grameena Vikas Bank,12.37,67.73%,14.39%,5.74%
+Feb 2023,Standard Chartered,12.23,94.56%,2.00%,50.59%
+Feb 2023,Ujjivan Small Finance Bank,11.96,89.62%,2.57%,36.94%
+Feb 2023,Tamilnad Mercantile Bank,10.67,90.33%,0.91%,38.94%
+Feb 2023,Maharashtra Gramin Bank,10.52,82.13%,2.62%,15.73%
+Feb 2023,AU small Finance Bank,10.33,92.78%,0.86%,0.03%
+Feb 2023,Saraswat Bank,10.21,94.69%,0.43%,74.07%
+Feb 2023,Pragathi Krishna Gramin Bank,10.21,87.48%,1.11%,64.09%
+Feb 2023,Jammu and Kashmir Bank,9.8,89.15%,1.43%,79.09%
+Feb 2023,Punjab and Sind Bank,9.6,88.55%,0.37%,89.90%
+Feb 2023,Andhra Pragathi Grameena Bank,8.63,61.73%,5.04%,5.75%
+Feb 2023,Rajasthan Marudhara Gramin Bank,7.57,75.62%,10.19%,7.37%
+Feb 2023,Kerala Gramin Bank,7.18,87.13%,0.73%,87.28%
+Feb 2023,ESAF Small Finance Bank Ltd.,6.81,84.30%,3.81%,75.80%
+Feb 2023,RBL Bank,6.05,91.98%,0.15%,92.58%
+Feb 2023,Baroda Rajasthan Kshetriya Gramin Bank,5.75,87.79%,2.77%,33.87%
+Feb 2023,Sarva Haryana Gramin Bank,5.65,88.63%,3.19%,79.14%
+Feb 2023,Telangana Grameena bank,5.26,78.85%,5.96%,7.75%
+Feb 2024,State Bank Of India,1291.88,91.70%,1.21%,95.66%
+Feb 2024,HDFC Bank Ltd,406.61,94.01%,0.29%,91.30%
+Feb 2024,Bank of Baroda,299.12,92.13%,0.49%,98.88%
+Feb 2024,Union Bank of India,287.21,90.21%,0.97%,46.80%
+Feb 2024,ICICI Bank,274.0,95.14%,0.17%,69.88%
+Feb 2024,Paytm Payments Bank,262.28,94.95%,0.08%,94.04%
+Feb 2024,Axis Bank Ltd,243.68,95.25%,0.25%,97.79%
+Feb 2024,Punjab National Bank,213.48,92.49%,0.61%,90.03%
+Feb 2024,Canara Bank,206.3,92.47%,0.47%,92.99%
+Feb 2024,Kotak Mahindra Bank,186.34,94.30%,0.29%,86.27%
+Feb 2024,Bank of India,171.56,93.02%,1.60%,50.40%
+Feb 2024,Indian Bank,115.76,88.38%,5.33%,40.42%
+Feb 2024,Central Bank Of India,95.53,90.13%,2.90%,63.32%
+Feb 2024,IDBI Bank Limited,66.58,94.57%,0.75%,64.13%
+Feb 2024,Federal Bank,62.84,93.07%,1.55%,71.18%
+Feb 2024,Airtel Payments Bank,62.35,86.08%,1.98%,72.95%
+Feb 2024,Bank of Maharashtra,59.9,93.98%,0.66%,83.88%
+Feb 2024,Indian Overseas Bank,56.35,93.65%,0.32%,85.81%
+Feb 2024,Yes Bank Ltd,49.25,93.93%,0.15%,95.73%
+Feb 2024,UCO Bank,48.84,91.28%,1.25%,52.87%
+Feb 2024,India Post Payment Bank,46.7,76.03%,6.42%,15.73%
+Feb 2024,Karnataka Bank,43.45,88.64%,2.44%,32.26%
+Feb 2024,IndusInd Bank,39.77,90.66%,0.52%,92.96%
+Feb 2024,IDFC First Bank,27.57,92.69%,1.24%,32.94%
+Feb 2024,Karur Vysya Bank,27.44,90.87%,0.93%,66.96%
+Feb 2024,Fino Payments Bank,23.19,78.89%,2.44%,99.04%
+Feb 2024,Bandhan Bank,19.49,87.73%,1.28%,14.62%
+Feb 2024,South Indian Bank,19.31,92.59%,0.24%,95.71%
+Feb 2024,DBS Bank India Limited,17.27,92.94%,1.29%,53.46%
+Feb 2024,City Union Bank,14.54,89.16%,4.35%,66.19%
+Feb 2024,Citibank,14.16,94.68%,0.72%,99.50%
+Feb 2024,Equitas Small Finance Bank,13.53,83.50%,0.78%,82.94%
+Feb 2024,Andhra Pradesh Grameena Vikas Bank,12.37,67.73%,14.39%,5.74%
+Feb 2024,Standard Chartered,12.23,94.56%,2.00%,50.59%
+Feb 2024,Ujjivan Small Finance Bank,11.96,89.62%,2.57%,36.94%
+Feb 2024,Tamilnad Mercantile Bank,10.67,90.33%,0.91%,38.94%
+Feb 2024,Maharashtra Gramin Bank,10.52,82.13%,2.62%,15.73%
+Feb 2024,AU small Finance Bank,10.33,92.78%,0.86%,0.03%
+Feb 2024,Saraswat Bank,10.21,94.69%,0.43%,74.07%
+Feb 2024,Pragathi Krishna Gramin Bank,10.21,87.48%,1.11%,64.09%
+Feb 2024,Jammu and Kashmir Bank,9.8,89.15%,1.43%,79.09%
+Feb 2024,Punjab and Sind Bank,9.6,88.55%,0.37%,89.90%
+Feb 2024,Andhra Pragathi Grameena Bank,8.63,61.73%,5.04%,5.75%
+Feb 2024,Rajasthan Marudhara Gramin Bank,7.57,75.62%,10.19%,7.37%
+Feb 2024,Kerala Gramin Bank,7.18,87.13%,0.73%,87.28%
+Feb 2024,ESAF Small Finance Bank Ltd.,6.81,84.30%,3.81%,75.80%
+Feb 2024,RBL Bank,6.05,91.98%,0.15%,92.58%
+Feb 2024,Baroda Rajasthan Kshetriya Gramin Bank,5.75,87.79%,2.77%,33.87%
+Feb 2024,Sarva Haryana Gramin Bank,5.65,88.63%,3.19%,79.14%
+Feb 2024,Telangana Grameena bank,5.26,78.85%,5.96%,7.75%
+Jan 2022,State Bank Of India,1291.88,91.70%,1.21%,95.66%
+Jan 2022,HDFC Bank Ltd,406.61,94.01%,0.29%,91.30%
+Jan 2022,Bank of Baroda,299.12,92.13%,0.49%,98.88%
+Jan 2022,Union Bank of India,287.21,90.21%,0.97%,46.80%
+Jan 2022,ICICI Bank,274.0,95.14%,0.17%,69.88%
+Jan 2022,Paytm Payments Bank,262.28,94.95%,0.08%,94.04%
+Jan 2022,Axis Bank Ltd,243.68,95.25%,0.25%,97.79%
+Jan 2022,Punjab National Bank,213.48,92.49%,0.61%,90.03%
+Jan 2022,Canara Bank,206.3,92.47%,0.47%,92.99%
+Jan 2022,Kotak Mahindra Bank,186.34,94.30%,0.29%,86.27%
+Jan 2022,Bank of India,171.56,93.02%,1.60%,50.40%
+Jan 2022,Indian Bank,115.76,88.38%,5.33%,40.42%
+Jan 2022,Central Bank Of India,95.53,90.13%,2.90%,63.32%
+Jan 2022,IDBI Bank Limited,66.58,94.57%,0.75%,64.13%
+Jan 2022,Federal Bank,62.84,93.07%,1.55%,71.18%
+Jan 2022,Airtel Payments Bank,62.35,86.08%,1.98%,72.95%
+Jan 2022,Bank of Maharashtra,59.9,93.98%,0.66%,83.88%
+Jan 2022,Indian Overseas Bank,56.35,93.65%,0.32%,85.81%
+Jan 2022,Yes Bank Ltd,49.25,93.93%,0.15%,95.73%
+Jan 2022,UCO Bank,48.84,91.28%,1.25%,52.87%
+Jan 2022,India Post Payment Bank,46.7,76.03%,6.42%,15.73%
+Jan 2022,Karnataka Bank,43.45,88.64%,2.44%,32.26%
+Jan 2022,IndusInd Bank,39.77,90.66%,0.52%,92.96%
+Jan 2022,IDFC First Bank,27.57,92.69%,1.24%,32.94%
+Jan 2022,Karur Vysya Bank,27.44,90.87%,0.93%,66.96%
+Jan 2022,Fino Payments Bank,23.19,78.89%,2.44%,99.04%
+Jan 2022,Bandhan Bank,19.49,87.73%,1.28%,14.62%
+Jan 2022,South Indian Bank,19.31,92.59%,0.24%,95.71%
+Jan 2022,DBS Bank India Limited,17.27,92.94%,1.29%,53.46%
+Jan 2022,City Union Bank,14.54,89.16%,4.35%,66.19%
+Jan 2022,Citibank,14.16,94.68%,0.72%,99.50%
+Jan 2022,Equitas Small Finance Bank,13.53,83.50%,0.78%,82.94%
+Jan 2022,Andhra Pradesh Grameena Vikas Bank,12.37,67.73%,14.39%,5.74%
+Jan 2022,Standard Chartered,12.23,94.56%,2.00%,50.59%
+Jan 2022,Ujjivan Small Finance Bank,11.96,89.62%,2.57%,36.94%
+Jan 2022,Tamilnad Mercantile Bank,10.67,90.33%,0.91%,38.94%
+Jan 2022,Maharashtra Gramin Bank,10.52,82.13%,2.62%,15.73%
+Jan 2022,AU small Finance Bank,10.33,92.78%,0.86%,0.03%
+Jan 2022,Saraswat Bank,10.21,94.69%,0.43%,74.07%
+Jan 2022,Pragathi Krishna Gramin Bank,10.21,87.48%,1.11%,64.09%
+Jan 2022,Jammu and Kashmir Bank,9.8,89.15%,1.43%,79.09%
+Jan 2022,Punjab and Sind Bank,9.6,88.55%,0.37%,89.90%
+Jan 2022,Andhra Pragathi Grameena Bank,8.63,61.73%,5.04%,5.75%
+Jan 2022,Rajasthan Marudhara Gramin Bank,7.57,75.62%,10.19%,7.37%
+Jan 2022,Kerala Gramin Bank,7.18,87.13%,0.73%,87.28%
+Jan 2022,ESAF Small Finance Bank Ltd.,6.81,84.30%,3.81%,75.80%
+Jan 2022,RBL Bank,6.05,91.98%,0.15%,92.58%
+Jan 2022,Baroda Rajasthan Kshetriya Gramin Bank,5.75,87.79%,2.77%,33.87%
+Jan 2022,Sarva Haryana Gramin Bank,5.65,88.63%,3.19%,79.14%
+Jan 2022,Telangana Grameena bank,5.26,78.85%,5.96%,7.75%
+Jan 2023,State Bank Of India,1291.88,91.70%,1.21%,95.66%
+Jan 2023,HDFC Bank Ltd,406.61,94.01%,0.29%,91.30%
+Jan 2023,Bank of Baroda,299.12,92.13%,0.49%,98.88%
+Jan 2023,Union Bank of India,287.21,90.21%,0.97%,46.80%
+Jan 2023,ICICI Bank,274.0,95.14%,0.17%,69.88%
+Jan 2023,Paytm Payments Bank,262.28,94.95%,0.08%,94.04%
+Jan 2023,Axis Bank Ltd,243.68,95.25%,0.25%,97.79%
+Jan 2023,Punjab National Bank,213.48,92.49%,0.61%,90.03%
+Jan 2023,Canara Bank,206.3,92.47%,0.47%,92.99%
+Jan 2023,Kotak Mahindra Bank,186.34,94.30%,0.29%,86.27%
+Jan 2023,Bank of India,171.56,93.02%,1.60%,50.40%
+Jan 2023,Indian Bank,115.76,88.38%,5.33%,40.42%
+Jan 2023,Central Bank Of India,95.53,90.13%,2.90%,63.32%
+Jan 2023,IDBI Bank Limited,66.58,94.57%,0.75%,64.13%
+Jan 2023,Federal Bank,62.84,93.07%,1.55%,71.18%
+Jan 2023,Airtel Payments Bank,62.35,86.08%,1.98%,72.95%
+Jan 2023,Bank of Maharashtra,59.9,93.98%,0.66%,83.88%
+Jan 2023,Indian Overseas Bank,56.35,93.65%,0.32%,85.81%
+Jan 2023,Yes Bank Ltd,49.25,93.93%,0.15%,95.73%
+Jan 2023,UCO Bank,48.84,91.28%,1.25%,52.87%
+Jan 2023,India Post Payment Bank,46.7,76.03%,6.42%,15.73%
+Jan 2023,Karnataka Bank,43.45,88.64%,2.44%,32.26%
+Jan 2023,IndusInd Bank,39.77,90.66%,0.52%,92.96%
+Jan 2023,IDFC First Bank,27.57,92.69%,1.24%,32.94%
+Jan 2023,Karur Vysya Bank,27.44,90.87%,0.93%,66.96%
+Jan 2023,Fino Payments Bank,23.19,78.89%,2.44%,99.04%
+Jan 2023,Bandhan Bank,19.49,87.73%,1.28%,14.62%
+Jan 2023,South Indian Bank,19.31,92.59%,0.24%,95.71%
+Jan 2023,DBS Bank India Limited,17.27,92.94%,1.29%,53.46%
+Jan 2023,City Union Bank,14.54,89.16%,4.35%,66.19%
+Jan 2023,Citibank,14.16,94.68%,0.72%,99.50%
+Jan 2023,Equitas Small Finance Bank,13.53,83.50%,0.78%,82.94%
+Jan 2023,Andhra Pradesh Grameena Vikas Bank,12.37,67.73%,14.39%,5.74%
+Jan 2023,Standard Chartered,12.23,94.56%,2.00%,50.59%
+Jan 2023,Ujjivan Small Finance Bank,11.96,89.62%,2.57%,36.94%
+Jan 2023,Tamilnad Mercantile Bank,10.67,90.33%,0.91%,38.94%
+Jan 2023,Maharashtra Gramin Bank,10.52,82.13%,2.62%,15.73%
+Jan 2023,AU small Finance Bank,10.33,92.78%,0.86%,0.03%
+Jan 2023,Saraswat Bank,10.21,94.69%,0.43%,74.07%
+Jan 2023,Pragathi Krishna Gramin Bank,10.21,87.48%,1.11%,64.09%
+Jan 2023,Jammu and Kashmir Bank,9.8,89.15%,1.43%,79.09%
+Jan 2023,Punjab and Sind Bank,9.6,88.55%,0.37%,89.90%
+Jan 2023,Andhra Pragathi Grameena Bank,8.63,61.73%,5.04%,5.75%
+Jan 2023,Rajasthan Marudhara Gramin Bank,7.57,75.62%,10.19%,7.37%
+Jan 2023,Kerala Gramin Bank,7.18,87.13%,0.73%,87.28%
+Jan 2023,ESAF Small Finance Bank Ltd.,6.81,84.30%,3.81%,75.80%
+Jan 2023,RBL Bank,6.05,91.98%,0.15%,92.58%
+Jan 2023,Baroda Rajasthan Kshetriya Gramin Bank,5.75,87.79%,2.77%,33.87%
+Jan 2023,Sarva Haryana Gramin Bank,5.65,88.63%,3.19%,79.14%
+Jan 2023,Telangana Grameena bank,5.26,78.85%,5.96%,7.75%
+Jan 2024,State Bank Of India,1291.88,91.70%,1.21%,95.66%
+Jan 2024,HDFC Bank Ltd,406.61,94.01%,0.29%,91.30%
+Jan 2024,Bank of Baroda,299.12,92.13%,0.49%,98.88%
+Jan 2024,Union Bank of India,287.21,90.21%,0.97%,46.80%
+Jan 2024,ICICI Bank,274.0,95.14%,0.17%,69.88%
+Jan 2024,Paytm Payments Bank,262.28,94.95%,0.08%,94.04%
+Jan 2024,Axis Bank Ltd,243.68,95.25%,0.25%,97.79%
+Jan 2024,Punjab National Bank,213.48,92.49%,0.61%,90.03%
+Jan 2024,Canara Bank,206.3,92.47%,0.47%,92.99%
+Jan 2024,Kotak Mahindra Bank,186.34,94.30%,0.29%,86.27%
+Jan 2024,Bank of India,171.56,93.02%,1.60%,50.40%
+Jan 2024,Indian Bank,115.76,88.38%,5.33%,40.42%
+Jan 2024,Central Bank Of India,95.53,90.13%,2.90%,63.32%
+Jan 2024,IDBI Bank Limited,66.58,94.57%,0.75%,64.13%
+Jan 2024,Federal Bank,62.84,93.07%,1.55%,71.18%
+Jan 2024,Airtel Payments Bank,62.35,86.08%,1.98%,72.95%
+Jan 2024,Bank of Maharashtra,59.9,93.98%,0.66%,83.88%
+Jan 2024,Indian Overseas Bank,56.35,93.65%,0.32%,85.81%
+Jan 2024,Yes Bank Ltd,49.25,93.93%,0.15%,95.73%
+Jan 2024,UCO Bank,48.84,91.28%,1.25%,52.87%
+Jan 2024,India Post Payment Bank,46.7,76.03%,6.42%,15.73%
+Jan 2024,Karnataka Bank,43.45,88.64%,2.44%,32.26%
+Jan 2024,IndusInd Bank,39.77,90.66%,0.52%,92.96%
+Jan 2024,IDFC First Bank,27.57,92.69%,1.24%,32.94%
+Jan 2024,Karur Vysya Bank,27.44,90.87%,0.93%,66.96%
+Jan 2024,Fino Payments Bank,23.19,78.89%,2.44%,99.04%
+Jan 2024,Bandhan Bank,19.49,87.73%,1.28%,14.62%
+Jan 2024,South Indian Bank,19.31,92.59%,0.24%,95.71%
+Jan 2024,DBS Bank India Limited,17.27,92.94%,1.29%,53.46%
+Jan 2024,City Union Bank,14.54,89.16%,4.35%,66.19%
+Jan 2024,Citibank,14.16,94.68%,0.72%,99.50%
+Jan 2024,Equitas Small Finance Bank,13.53,83.50%,0.78%,82.94%
+Jan 2024,Andhra Pradesh Grameena Vikas Bank,12.37,67.73%,14.39%,5.74%
+Jan 2024,Standard Chartered,12.23,94.56%,2.00%,50.59%
+Jan 2024,Ujjivan Small Finance Bank,11.96,89.62%,2.57%,36.94%
+Jan 2024,Tamilnad Mercantile Bank,10.67,90.33%,0.91%,38.94%
+Jan 2024,Maharashtra Gramin Bank,10.52,82.13%,2.62%,15.73%
+Jan 2024,AU small Finance Bank,10.33,92.78%,0.86%,0.03%
+Jan 2024,Saraswat Bank,10.21,94.69%,0.43%,74.07%
+Jan 2024,Pragathi Krishna Gramin Bank,10.21,87.48%,1.11%,64.09%
+Jan 2024,Jammu and Kashmir Bank,9.8,89.15%,1.43%,79.09%
+Jan 2024,Punjab and Sind Bank,9.6,88.55%,0.37%,89.90%
+Jan 2024,Andhra Pragathi Grameena Bank,8.63,61.73%,5.04%,5.75%
+Jan 2024,Rajasthan Marudhara Gramin Bank,7.57,75.62%,10.19%,7.37%
+Jan 2024,Kerala Gramin Bank,7.18,87.13%,0.73%,87.28%
+Jan 2024,ESAF Small Finance Bank Ltd.,6.81,84.30%,3.81%,75.80%
+Jan 2024,RBL Bank,6.05,91.98%,0.15%,92.58%
+Jan 2024,Baroda Rajasthan Kshetriya Gramin Bank,5.75,87.79%,2.77%,33.87%
+Jan 2024,Sarva Haryana Gramin Bank,5.65,88.63%,3.19%,79.14%
+Jan 2024,Telangana Grameena bank,5.26,78.85%,5.96%,7.75%
+Jul 2022,State Bank Of India,1291.88,91.70%,1.21%,95.66%
+Jul 2022,HDFC Bank Ltd,406.61,94.01%,0.29%,91.30%
+Jul 2022,Bank of Baroda,299.12,92.13%,0.49%,98.88%
+Jul 2022,Union Bank of India,287.21,90.21%,0.97%,46.80%
+Jul 2022,ICICI Bank,274.0,95.14%,0.17%,69.88%
+Jul 2022,Paytm Payments Bank,262.28,94.95%,0.08%,94.04%
+Jul 2022,Axis Bank Ltd,243.68,95.25%,0.25%,97.79%
+Jul 2022,Punjab National Bank,213.48,92.49%,0.61%,90.03%
+Jul 2022,Canara Bank,206.3,92.47%,0.47%,92.99%
+Jul 2022,Kotak Mahindra Bank,186.34,94.30%,0.29%,86.27%
+Jul 2022,Bank of India,171.56,93.02%,1.60%,50.40%
+Jul 2022,Indian Bank,115.76,88.38%,5.33%,40.42%
+Jul 2022,Central Bank Of India,95.53,90.13%,2.90%,63.32%
+Jul 2022,IDBI Bank Limited,66.58,94.57%,0.75%,64.13%
+Jul 2022,Federal Bank,62.84,93.07%,1.55%,71.18%
+Jul 2022,Airtel Payments Bank,62.35,86.08%,1.98%,72.95%
+Jul 2022,Bank of Maharashtra,59.9,93.98%,0.66%,83.88%
+Jul 2022,Indian Overseas Bank,56.35,93.65%,0.32%,85.81%
+Jul 2022,Yes Bank Ltd,49.25,93.93%,0.15%,95.73%
+Jul 2022,UCO Bank,48.84,91.28%,1.25%,52.87%
+Jul 2022,India Post Payment Bank,46.7,76.03%,6.42%,15.73%
+Jul 2022,Karnataka Bank,43.45,88.64%,2.44%,32.26%
+Jul 2022,IndusInd Bank,39.77,90.66%,0.52%,92.96%
+Jul 2022,IDFC First Bank,27.57,92.69%,1.24%,32.94%
+Jul 2022,Karur Vysya Bank,27.44,90.87%,0.93%,66.96%
+Jul 2022,Fino Payments Bank,23.19,78.89%,2.44%,99.04%
+Jul 2022,Bandhan Bank,19.49,87.73%,1.28%,14.62%
+Jul 2022,South Indian Bank,19.31,92.59%,0.24%,95.71%
+Jul 2022,DBS Bank India Limited,17.27,92.94%,1.29%,53.46%
+Jul 2022,City Union Bank,14.54,89.16%,4.35%,66.19%
+Jul 2022,Citibank,14.16,94.68%,0.72%,99.50%
+Jul 2022,Equitas Small Finance Bank,13.53,83.50%,0.78%,82.94%
+Jul 2022,Andhra Pradesh Grameena Vikas Bank,12.37,67.73%,14.39%,5.74%
+Jul 2022,Standard Chartered,12.23,94.56%,2.00%,50.59%
+Jul 2022,Ujjivan Small Finance Bank,11.96,89.62%,2.57%,36.94%
+Jul 2022,Tamilnad Mercantile Bank,10.67,90.33%,0.91%,38.94%
+Jul 2022,Maharashtra Gramin Bank,10.52,82.13%,2.62%,15.73%
+Jul 2022,AU small Finance Bank,10.33,92.78%,0.86%,0.03%
+Jul 2022,Saraswat Bank,10.21,94.69%,0.43%,74.07%
+Jul 2022,Pragathi Krishna Gramin Bank,10.21,87.48%,1.11%,64.09%
+Jul 2022,Jammu and Kashmir Bank,9.8,89.15%,1.43%,79.09%
+Jul 2022,Punjab and Sind Bank,9.6,88.55%,0.37%,89.90%
+Jul 2022,Andhra Pragathi Grameena Bank,8.63,61.73%,5.04%,5.75%
+Jul 2022,Rajasthan Marudhara Gramin Bank,7.57,75.62%,10.19%,7.37%
+Jul 2022,Kerala Gramin Bank,7.18,87.13%,0.73%,87.28%
+Jul 2022,ESAF Small Finance Bank Ltd.,6.81,84.30%,3.81%,75.80%
+Jul 2022,RBL Bank,6.05,91.98%,0.15%,92.58%
+Jul 2022,Baroda Rajasthan Kshetriya Gramin Bank,5.75,87.79%,2.77%,33.87%
+Jul 2022,Sarva Haryana Gramin Bank,5.65,88.63%,3.19%,79.14%
+Jul 2022,Telangana Grameena bank,5.26,78.85%,5.96%,7.75%
+Jul 2023,State Bank Of India,1291.88,91.70%,1.21%,95.66%
+Jul 2023,HDFC Bank Ltd,406.61,94.01%,0.29%,91.30%
+Jul 2023,Bank of Baroda,299.12,92.13%,0.49%,98.88%
+Jul 2023,Union Bank of India,287.21,90.21%,0.97%,46.80%
+Jul 2023,ICICI Bank,274.0,95.14%,0.17%,69.88%
+Jul 2023,Paytm Payments Bank,262.28,94.95%,0.08%,94.04%
+Jul 2023,Axis Bank Ltd,243.68,95.25%,0.25%,97.79%
+Jul 2023,Punjab National Bank,213.48,92.49%,0.61%,90.03%
+Jul 2023,Canara Bank,206.3,92.47%,0.47%,92.99%
+Jul 2023,Kotak Mahindra Bank,186.34,94.30%,0.29%,86.27%
+Jul 2023,Bank of India,171.56,93.02%,1.60%,50.40%
+Jul 2023,Indian Bank,115.76,88.38%,5.33%,40.42%
+Jul 2023,Central Bank Of India,95.53,90.13%,2.90%,63.32%
+Jul 2023,IDBI Bank Limited,66.58,94.57%,0.75%,64.13%
+Jul 2023,Federal Bank,62.84,93.07%,1.55%,71.18%
+Jul 2023,Airtel Payments Bank,62.35,86.08%,1.98%,72.95%
+Jul 2023,Bank of Maharashtra,59.9,93.98%,0.66%,83.88%
+Jul 2023,Indian Overseas Bank,56.35,93.65%,0.32%,85.81%
+Jul 2023,Yes Bank Ltd,49.25,93.93%,0.15%,95.73%
+Jul 2023,UCO Bank,48.84,91.28%,1.25%,52.87%
+Jul 2023,India Post Payment Bank,46.7,76.03%,6.42%,15.73%
+Jul 2023,Karnataka Bank,43.45,88.64%,2.44%,32.26%
+Jul 2023,IndusInd Bank,39.77,90.66%,0.52%,92.96%
+Jul 2023,IDFC First Bank,27.57,92.69%,1.24%,32.94%
+Jul 2023,Karur Vysya Bank,27.44,90.87%,0.93%,66.96%
+Jul 2023,Fino Payments Bank,23.19,78.89%,2.44%,99.04%
+Jul 2023,Bandhan Bank,19.49,87.73%,1.28%,14.62%
+Jul 2023,South Indian Bank,19.31,92.59%,0.24%,95.71%
+Jul 2023,DBS Bank India Limited,17.27,92.94%,1.29%,53.46%
+Jul 2023,City Union Bank,14.54,89.16%,4.35%,66.19%
+Jul 2023,Citibank,14.16,94.68%,0.72%,99.50%
+Jul 2023,Equitas Small Finance Bank,13.53,83.50%,0.78%,82.94%
+Jul 2023,Andhra Pradesh Grameena Vikas Bank,12.37,67.73%,14.39%,5.74%
+Jul 2023,Standard Chartered,12.23,94.56%,2.00%,50.59%
+Jul 2023,Ujjivan Small Finance Bank,11.96,89.62%,2.57%,36.94%
+Jul 2023,Tamilnad Mercantile Bank,10.67,90.33%,0.91%,38.94%
+Jul 2023,Maharashtra Gramin Bank,10.52,82.13%,2.62%,15.73%
+Jul 2023,AU small Finance Bank,10.33,92.78%,0.86%,0.03%
+Jul 2023,Saraswat Bank,10.21,94.69%,0.43%,74.07%
+Jul 2023,Pragathi Krishna Gramin Bank,10.21,87.48%,1.11%,64.09%
+Jul 2023,Jammu and Kashmir Bank,9.8,89.15%,1.43%,79.09%
+Jul 2023,Punjab and Sind Bank,9.6,88.55%,0.37%,89.90%
+Jul 2023,Andhra Pragathi Grameena Bank,8.63,61.73%,5.04%,5.75%
+Jul 2023,Rajasthan Marudhara Gramin Bank,7.57,75.62%,10.19%,7.37%
+Jul 2023,Kerala Gramin Bank,7.18,87.13%,0.73%,87.28%
+Jul 2023,ESAF Small Finance Bank Ltd.,6.81,84.30%,3.81%,75.80%
+Jul 2023,RBL Bank,6.05,91.98%,0.15%,92.58%
+Jul 2023,Baroda Rajasthan Kshetriya Gramin Bank,5.75,87.79%,2.77%,33.87%
+Jul 2023,Sarva Haryana Gramin Bank,5.65,88.63%,3.19%,79.14%
+Jul 2023,Telangana Grameena bank,5.26,78.85%,5.96%,7.75%
+Jul 2024,State Bank Of India,1291.88,91.70%,1.21%,95.66%
+Jul 2024,HDFC Bank Ltd,406.61,94.01%,0.29%,91.30%
+Jul 2024,Bank of Baroda,299.12,92.13%,0.49%,98.88%
+Jul 2024,Union Bank of India,287.21,90.21%,0.97%,46.80%
+Jul 2024,ICICI Bank,274.0,95.14%,0.17%,69.88%
+Jul 2024,Paytm Payments Bank,262.28,94.95%,0.08%,94.04%
+Jul 2024,Axis Bank Ltd,243.68,95.25%,0.25%,97.79%
+Jul 2024,Punjab National Bank,213.48,92.49%,0.61%,90.03%
+Jul 2024,Canara Bank,206.3,92.47%,0.47%,92.99%
+Jul 2024,Kotak Mahindra Bank,186.34,94.30%,0.29%,86.27%
+Jul 2024,Bank of India,171.56,93.02%,1.60%,50.40%
+Jul 2024,Indian Bank,115.76,88.38%,5.33%,40.42%
+Jul 2024,Central Bank Of India,95.53,90.13%,2.90%,63.32%
+Jul 2024,IDBI Bank Limited,66.58,94.57%,0.75%,64.13%
+Jul 2024,Federal Bank,62.84,93.07%,1.55%,71.18%
+Jul 2024,Airtel Payments Bank,62.35,86.08%,1.98%,72.95%
+Jul 2024,Bank of Maharashtra,59.9,93.98%,0.66%,83.88%
+Jul 2024,Indian Overseas Bank,56.35,93.65%,0.32%,85.81%
+Jul 2024,Yes Bank Ltd,49.25,93.93%,0.15%,95.73%
+Jul 2024,UCO Bank,48.84,91.28%,1.25%,52.87%
+Jul 2024,India Post Payment Bank,46.7,76.03%,6.42%,15.73%
+Jul 2024,Karnataka Bank,43.45,88.64%,2.44%,32.26%
+Jul 2024,IndusInd Bank,39.77,90.66%,0.52%,92.96%
+Jul 2024,IDFC First Bank,27.57,92.69%,1.24%,32.94%
+Jul 2024,Karur Vysya Bank,27.44,90.87%,0.93%,66.96%
+Jul 2024,Fino Payments Bank,23.19,78.89%,2.44%,99.04%
+Jul 2024,Bandhan Bank,19.49,87.73%,1.28%,14.62%
+Jul 2024,South Indian Bank,19.31,92.59%,0.24%,95.71%
+Jul 2024,DBS Bank India Limited,17.27,92.94%,1.29%,53.46%
+Jul 2024,City Union Bank,14.54,89.16%,4.35%,66.19%
+Jul 2024,Citibank,14.16,94.68%,0.72%,99.50%
+Jul 2024,Equitas Small Finance Bank,13.53,83.50%,0.78%,82.94%
+Jul 2024,Andhra Pradesh Grameena Vikas Bank,12.37,67.73%,14.39%,5.74%
+Jul 2024,Standard Chartered,12.23,94.56%,2.00%,50.59%
+Jul 2024,Ujjivan Small Finance Bank,11.96,89.62%,2.57%,36.94%
+Jul 2024,Tamilnad Mercantile Bank,10.67,90.33%,0.91%,38.94%
+Jul 2024,Maharashtra Gramin Bank,10.52,82.13%,2.62%,15.73%
+Jul 2024,AU small Finance Bank,10.33,92.78%,0.86%,0.03%
+Jul 2024,Saraswat Bank,10.21,94.69%,0.43%,74.07%
+Jul 2024,Pragathi Krishna Gramin Bank,10.21,87.48%,1.11%,64.09%
+Jul 2024,Jammu and Kashmir Bank,9.8,89.15%,1.43%,79.09%
+Jul 2024,Punjab and Sind Bank,9.6,88.55%,0.37%,89.90%
+Jul 2024,Andhra Pragathi Grameena Bank,8.63,61.73%,5.04%,5.75%
+Jul 2024,Rajasthan Marudhara Gramin Bank,7.57,75.62%,10.19%,7.37%
+Jul 2024,Kerala Gramin Bank,7.18,87.13%,0.73%,87.28%
+Jul 2024,ESAF Small Finance Bank Ltd.,6.81,84.30%,3.81%,75.80%
+Jul 2024,RBL Bank,6.05,91.98%,0.15%,92.58%
+Jul 2024,Baroda Rajasthan Kshetriya Gramin Bank,5.75,87.79%,2.77%,33.87%
+Jul 2024,Sarva Haryana Gramin Bank,5.65,88.63%,3.19%,79.14%
+Jul 2024,Telangana Grameena bank,5.26,78.85%,5.96%,7.75%
+Jun 2022,State Bank Of India,1291.88,91.70%,1.21%,95.66%
+Jun 2022,HDFC Bank Ltd,406.61,94.01%,0.29%,91.30%
+Jun 2022,Bank of Baroda,299.12,92.13%,0.49%,98.88%
+Jun 2022,Union Bank of India,287.21,90.21%,0.97%,46.80%
+Jun 2022,ICICI Bank,274.0,95.14%,0.17%,69.88%
+Jun 2022,Paytm Payments Bank,262.28,94.95%,0.08%,94.04%
+Jun 2022,Axis Bank Ltd,243.68,95.25%,0.25%,97.79%
+Jun 2022,Punjab National Bank,213.48,92.49%,0.61%,90.03%
+Jun 2022,Canara Bank,206.3,92.47%,0.47%,92.99%
+Jun 2022,Kotak Mahindra Bank,186.34,94.30%,0.29%,86.27%
+Jun 2022,Bank of India,171.56,93.02%,1.60%,50.40%
+Jun 2022,Indian Bank,115.76,88.38%,5.33%,40.42%
+Jun 2022,Central Bank Of India,95.53,90.13%,2.90%,63.32%
+Jun 2022,IDBI Bank Limited,66.58,94.57%,0.75%,64.13%
+Jun 2022,Federal Bank,62.84,93.07%,1.55%,71.18%
+Jun 2022,Airtel Payments Bank,62.35,86.08%,1.98%,72.95%
+Jun 2022,Bank of Maharashtra,59.9,93.98%,0.66%,83.88%
+Jun 2022,Indian Overseas Bank,56.35,93.65%,0.32%,85.81%
+Jun 2022,Yes Bank Ltd,49.25,93.93%,0.15%,95.73%
+Jun 2022,UCO Bank,48.84,91.28%,1.25%,52.87%
+Jun 2022,India Post Payment Bank,46.7,76.03%,6.42%,15.73%
+Jun 2022,Karnataka Bank,43.45,88.64%,2.44%,32.26%
+Jun 2022,IndusInd Bank,39.77,90.66%,0.52%,92.96%
+Jun 2022,IDFC First Bank,27.57,92.69%,1.24%,32.94%
+Jun 2022,Karur Vysya Bank,27.44,90.87%,0.93%,66.96%
+Jun 2022,Fino Payments Bank,23.19,78.89%,2.44%,99.04%
+Jun 2022,Bandhan Bank,19.49,87.73%,1.28%,14.62%
+Jun 2022,South Indian Bank,19.31,92.59%,0.24%,95.71%
+Jun 2022,DBS Bank India Limited,17.27,92.94%,1.29%,53.46%
+Jun 2022,City Union Bank,14.54,89.16%,4.35%,66.19%
+Jun 2022,Citibank,14.16,94.68%,0.72%,99.50%
+Jun 2022,Equitas Small Finance Bank,13.53,83.50%,0.78%,82.94%
+Jun 2022,Andhra Pradesh Grameena Vikas Bank,12.37,67.73%,14.39%,5.74%
+Jun 2022,Standard Chartered,12.23,94.56%,2.00%,50.59%
+Jun 2022,Ujjivan Small Finance Bank,11.96,89.62%,2.57%,36.94%
+Jun 2022,Tamilnad Mercantile Bank,10.67,90.33%,0.91%,38.94%
+Jun 2022,Maharashtra Gramin Bank,10.52,82.13%,2.62%,15.73%
+Jun 2022,AU small Finance Bank,10.33,92.78%,0.86%,0.03%
+Jun 2022,Saraswat Bank,10.21,94.69%,0.43%,74.07%
+Jun 2022,Pragathi Krishna Gramin Bank,10.21,87.48%,1.11%,64.09%
+Jun 2022,Jammu and Kashmir Bank,9.8,89.15%,1.43%,79.09%
+Jun 2022,Punjab and Sind Bank,9.6,88.55%,0.37%,89.90%
+Jun 2022,Andhra Pragathi Grameena Bank,8.63,61.73%,5.04%,5.75%
+Jun 2022,Rajasthan Marudhara Gramin Bank,7.57,75.62%,10.19%,7.37%
+Jun 2022,Kerala Gramin Bank,7.18,87.13%,0.73%,87.28%
+Jun 2022,ESAF Small Finance Bank Ltd.,6.81,84.30%,3.81%,75.80%
+Jun 2022,RBL Bank,6.05,91.98%,0.15%,92.58%
+Jun 2022,Baroda Rajasthan Kshetriya Gramin Bank,5.75,87.79%,2.77%,33.87%
+Jun 2022,Sarva Haryana Gramin Bank,5.65,88.63%,3.19%,79.14%
+Jun 2022,Telangana Grameena bank,5.26,78.85%,5.96%,7.75%
+Jun 2023,State Bank Of India,1291.88,91.70%,1.21%,95.66%
+Jun 2023,HDFC Bank Ltd,406.61,94.01%,0.29%,91.30%
+Jun 2023,Bank of Baroda,299.12,92.13%,0.49%,98.88%
+Jun 2023,Union Bank of India,287.21,90.21%,0.97%,46.80%
+Jun 2023,ICICI Bank,274.0,95.14%,0.17%,69.88%
+Jun 2023,Paytm Payments Bank,262.28,94.95%,0.08%,94.04%
+Jun 2023,Axis Bank Ltd,243.68,95.25%,0.25%,97.79%
+Jun 2023,Punjab National Bank,213.48,92.49%,0.61%,90.03%
+Jun 2023,Canara Bank,206.3,92.47%,0.47%,92.99%
+Jun 2023,Kotak Mahindra Bank,186.34,94.30%,0.29%,86.27%
+Jun 2023,Bank of India,171.56,93.02%,1.60%,50.40%
+Jun 2023,Indian Bank,115.76,88.38%,5.33%,40.42%
+Jun 2023,Central Bank Of India,95.53,90.13%,2.90%,63.32%
+Jun 2023,IDBI Bank Limited,66.58,94.57%,0.75%,64.13%
+Jun 2023,Federal Bank,62.84,93.07%,1.55%,71.18%
+Jun 2023,Airtel Payments Bank,62.35,86.08%,1.98%,72.95%
+Jun 2023,Bank of Maharashtra,59.9,93.98%,0.66%,83.88%
+Jun 2023,Indian Overseas Bank,56.35,93.65%,0.32%,85.81%
+Jun 2023,Yes Bank Ltd,49.25,93.93%,0.15%,95.73%
+Jun 2023,UCO Bank,48.84,91.28%,1.25%,52.87%
+Jun 2023,India Post Payment Bank,46.7,76.03%,6.42%,15.73%
+Jun 2023,Karnataka Bank,43.45,88.64%,2.44%,32.26%
+Jun 2023,IndusInd Bank,39.77,90.66%,0.52%,92.96%
+Jun 2023,IDFC First Bank,27.57,92.69%,1.24%,32.94%
+Jun 2023,Karur Vysya Bank,27.44,90.87%,0.93%,66.96%
+Jun 2023,Fino Payments Bank,23.19,78.89%,2.44%,99.04%
+Jun 2023,Bandhan Bank,19.49,87.73%,1.28%,14.62%
+Jun 2023,South Indian Bank,19.31,92.59%,0.24%,95.71%
+Jun 2023,DBS Bank India Limited,17.27,92.94%,1.29%,53.46%
+Jun 2023,City Union Bank,14.54,89.16%,4.35%,66.19%
+Jun 2023,Citibank,14.16,94.68%,0.72%,99.50%
+Jun 2023,Equitas Small Finance Bank,13.53,83.50%,0.78%,82.94%
+Jun 2023,Andhra Pradesh Grameena Vikas Bank,12.37,67.73%,14.39%,5.74%
+Jun 2023,Standard Chartered,12.23,94.56%,2.00%,50.59%
+Jun 2023,Ujjivan Small Finance Bank,11.96,89.62%,2.57%,36.94%
+Jun 2023,Tamilnad Mercantile Bank,10.67,90.33%,0.91%,38.94%
+Jun 2023,Maharashtra Gramin Bank,10.52,82.13%,2.62%,15.73%
+Jun 2023,AU small Finance Bank,10.33,92.78%,0.86%,0.03%
+Jun 2023,Saraswat Bank,10.21,94.69%,0.43%,74.07%
+Jun 2023,Pragathi Krishna Gramin Bank,10.21,87.48%,1.11%,64.09%
+Jun 2023,Jammu and Kashmir Bank,9.8,89.15%,1.43%,79.09%
+Jun 2023,Punjab and Sind Bank,9.6,88.55%,0.37%,89.90%
+Jun 2023,Andhra Pragathi Grameena Bank,8.63,61.73%,5.04%,5.75%
+Jun 2023,Rajasthan Marudhara Gramin Bank,7.57,75.62%,10.19%,7.37%
+Jun 2023,Kerala Gramin Bank,7.18,87.13%,0.73%,87.28%
+Jun 2023,ESAF Small Finance Bank Ltd.,6.81,84.30%,3.81%,75.80%
+Jun 2023,RBL Bank,6.05,91.98%,0.15%,92.58%
+Jun 2023,Baroda Rajasthan Kshetriya Gramin Bank,5.75,87.79%,2.77%,33.87%
+Jun 2023,Sarva Haryana Gramin Bank,5.65,88.63%,3.19%,79.14%
+Jun 2023,Telangana Grameena bank,5.26,78.85%,5.96%,7.75%
+Jun 2024,State Bank Of India,1291.88,91.70%,1.21%,95.66%
+Jun 2024,HDFC Bank Ltd,406.61,94.01%,0.29%,91.30%
+Jun 2024,Bank of Baroda,299.12,92.13%,0.49%,98.88%
+Jun 2024,Union Bank of India,287.21,90.21%,0.97%,46.80%
+Jun 2024,ICICI Bank,274.0,95.14%,0.17%,69.88%
+Jun 2024,Paytm Payments Bank,262.28,94.95%,0.08%,94.04%
+Jun 2024,Axis Bank Ltd,243.68,95.25%,0.25%,97.79%
+Jun 2024,Punjab National Bank,213.48,92.49%,0.61%,90.03%
+Jun 2024,Canara Bank,206.3,92.47%,0.47%,92.99%
+Jun 2024,Kotak Mahindra Bank,186.34,94.30%,0.29%,86.27%
+Jun 2024,Bank of India,171.56,93.02%,1.60%,50.40%
+Jun 2024,Indian Bank,115.76,88.38%,5.33%,40.42%
+Jun 2024,Central Bank Of India,95.53,90.13%,2.90%,63.32%
+Jun 2024,IDBI Bank Limited,66.58,94.57%,0.75%,64.13%
+Jun 2024,Federal Bank,62.84,93.07%,1.55%,71.18%
+Jun 2024,Airtel Payments Bank,62.35,86.08%,1.98%,72.95%
+Jun 2024,Bank of Maharashtra,59.9,93.98%,0.66%,83.88%
+Jun 2024,Indian Overseas Bank,56.35,93.65%,0.32%,85.81%
+Jun 2024,Yes Bank Ltd,49.25,93.93%,0.15%,95.73%
+Jun 2024,UCO Bank,48.84,91.28%,1.25%,52.87%
+Jun 2024,India Post Payment Bank,46.7,76.03%,6.42%,15.73%
+Jun 2024,Karnataka Bank,43.45,88.64%,2.44%,32.26%
+Jun 2024,IndusInd Bank,39.77,90.66%,0.52%,92.96%
+Jun 2024,IDFC First Bank,27.57,92.69%,1.24%,32.94%
+Jun 2024,Karur Vysya Bank,27.44,90.87%,0.93%,66.96%
+Jun 2024,Fino Payments Bank,23.19,78.89%,2.44%,99.04%
+Jun 2024,Bandhan Bank,19.49,87.73%,1.28%,14.62%
+Jun 2024,South Indian Bank,19.31,92.59%,0.24%,95.71%
+Jun 2024,DBS Bank India Limited,17.27,92.94%,1.29%,53.46%
+Jun 2024,City Union Bank,14.54,89.16%,4.35%,66.19%
+Jun 2024,Citibank,14.16,94.68%,0.72%,99.50%
+Jun 2024,Equitas Small Finance Bank,13.53,83.50%,0.78%,82.94%
+Jun 2024,Andhra Pradesh Grameena Vikas Bank,12.37,67.73%,14.39%,5.74%
+Jun 2024,Standard Chartered,12.23,94.56%,2.00%,50.59%
+Jun 2024,Ujjivan Small Finance Bank,11.96,89.62%,2.57%,36.94%
+Jun 2024,Tamilnad Mercantile Bank,10.67,90.33%,0.91%,38.94%
+Jun 2024,Maharashtra Gramin Bank,10.52,82.13%,2.62%,15.73%
+Jun 2024,AU small Finance Bank,10.33,92.78%,0.86%,0.03%
+Jun 2024,Saraswat Bank,10.21,94.69%,0.43%,74.07%
+Jun 2024,Pragathi Krishna Gramin Bank,10.21,87.48%,1.11%,64.09%
+Jun 2024,Jammu and Kashmir Bank,9.8,89.15%,1.43%,79.09%
+Jun 2024,Punjab and Sind Bank,9.6,88.55%,0.37%,89.90%
+Jun 2024,Andhra Pragathi Grameena Bank,8.63,61.73%,5.04%,5.75%
+Jun 2024,Rajasthan Marudhara Gramin Bank,7.57,75.62%,10.19%,7.37%
+Jun 2024,Kerala Gramin Bank,7.18,87.13%,0.73%,87.28%
+Jun 2024,ESAF Small Finance Bank Ltd.,6.81,84.30%,3.81%,75.80%
+Jun 2024,RBL Bank,6.05,91.98%,0.15%,92.58%
+Jun 2024,Baroda Rajasthan Kshetriya Gramin Bank,5.75,87.79%,2.77%,33.87%
+Jun 2024,Sarva Haryana Gramin Bank,5.65,88.63%,3.19%,79.14%
+Jun 2024,Telangana Grameena bank,5.26,78.85%,5.96%,7.75%
+Mar 2022,State Bank Of India,1291.88,91.70%,1.21%,95.66%
+Mar 2022,HDFC Bank Ltd,406.61,94.01%,0.29%,91.30%
+Mar 2022,Bank of Baroda,299.12,92.13%,0.49%,98.88%
+Mar 2022,Union Bank of India,287.21,90.21%,0.97%,46.80%
+Mar 2022,ICICI Bank,274.0,95.14%,0.17%,69.88%
+Mar 2022,Paytm Payments Bank,262.28,94.95%,0.08%,94.04%
+Mar 2022,Axis Bank Ltd,243.68,95.25%,0.25%,97.79%
+Mar 2022,Punjab National Bank,213.48,92.49%,0.61%,90.03%
+Mar 2022,Canara Bank,206.3,92.47%,0.47%,92.99%
+Mar 2022,Kotak Mahindra Bank,186.34,94.30%,0.29%,86.27%
+Mar 2022,Bank of India,171.56,93.02%,1.60%,50.40%
+Mar 2022,Indian Bank,115.76,88.38%,5.33%,40.42%
+Mar 2022,Central Bank Of India,95.53,90.13%,2.90%,63.32%
+Mar 2022,IDBI Bank Limited,66.58,94.57%,0.75%,64.13%
+Mar 2022,Federal Bank,62.84,93.07%,1.55%,71.18%
+Mar 2022,Airtel Payments Bank,62.35,86.08%,1.98%,72.95%
+Mar 2022,Bank of Maharashtra,59.9,93.98%,0.66%,83.88%
+Mar 2022,Indian Overseas Bank,56.35,93.65%,0.32%,85.81%
+Mar 2022,Yes Bank Ltd,49.25,93.93%,0.15%,95.73%
+Mar 2022,UCO Bank,48.84,91.28%,1.25%,52.87%
+Mar 2022,India Post Payment Bank,46.7,76.03%,6.42%,15.73%
+Mar 2022,Karnataka Bank,43.45,88.64%,2.44%,32.26%
+Mar 2022,IndusInd Bank,39.77,90.66%,0.52%,92.96%
+Mar 2022,IDFC First Bank,27.57,92.69%,1.24%,32.94%
+Mar 2022,Karur Vysya Bank,27.44,90.87%,0.93%,66.96%
+Mar 2022,Fino Payments Bank,23.19,78.89%,2.44%,99.04%
+Mar 2022,Bandhan Bank,19.49,87.73%,1.28%,14.62%
+Mar 2022,South Indian Bank,19.31,92.59%,0.24%,95.71%
+Mar 2022,DBS Bank India Limited,17.27,92.94%,1.29%,53.46%
+Mar 2022,City Union Bank,14.54,89.16%,4.35%,66.19%
+Mar 2022,Citibank,14.16,94.68%,0.72%,99.50%
+Mar 2022,Equitas Small Finance Bank,13.53,83.50%,0.78%,82.94%
+Mar 2022,Andhra Pradesh Grameena Vikas Bank,12.37,67.73%,14.39%,5.74%
+Mar 2022,Standard Chartered,12.23,94.56%,2.00%,50.59%
+Mar 2022,Ujjivan Small Finance Bank,11.96,89.62%,2.57%,36.94%
+Mar 2022,Tamilnad Mercantile Bank,10.67,90.33%,0.91%,38.94%
+Mar 2022,Maharashtra Gramin Bank,10.52,82.13%,2.62%,15.73%
+Mar 2022,AU small Finance Bank,10.33,92.78%,0.86%,0.03%
+Mar 2022,Saraswat Bank,10.21,94.69%,0.43%,74.07%
+Mar 2022,Pragathi Krishna Gramin Bank,10.21,87.48%,1.11%,64.09%
+Mar 2022,Jammu and Kashmir Bank,9.8,89.15%,1.43%,79.09%
+Mar 2022,Punjab and Sind Bank,9.6,88.55%,0.37%,89.90%
+Mar 2022,Andhra Pragathi Grameena Bank,8.63,61.73%,5.04%,5.75%
+Mar 2022,Rajasthan Marudhara Gramin Bank,7.57,75.62%,10.19%,7.37%
+Mar 2022,Kerala Gramin Bank,7.18,87.13%,0.73%,87.28%
+Mar 2022,ESAF Small Finance Bank Ltd.,6.81,84.30%,3.81%,75.80%
+Mar 2022,RBL Bank,6.05,91.98%,0.15%,92.58%
+Mar 2022,Baroda Rajasthan Kshetriya Gramin Bank,5.75,87.79%,2.77%,33.87%
+Mar 2022,Sarva Haryana Gramin Bank,5.65,88.63%,3.19%,79.14%
+Mar 2022,Telangana Grameena bank,5.26,78.85%,5.96%,7.75%
+Mar 2023,State Bank Of India,1291.88,91.70%,1.21%,95.66%
+Mar 2023,HDFC Bank Ltd,406.61,94.01%,0.29%,91.30%
+Mar 2023,Bank of Baroda,299.12,92.13%,0.49%,98.88%
+Mar 2023,Union Bank of India,287.21,90.21%,0.97%,46.80%
+Mar 2023,ICICI Bank,274.0,95.14%,0.17%,69.88%
+Mar 2023,Paytm Payments Bank,262.28,94.95%,0.08%,94.04%
+Mar 2023,Axis Bank Ltd,243.68,95.25%,0.25%,97.79%
+Mar 2023,Punjab National Bank,213.48,92.49%,0.61%,90.03%
+Mar 2023,Canara Bank,206.3,92.47%,0.47%,92.99%
+Mar 2023,Kotak Mahindra Bank,186.34,94.30%,0.29%,86.27%
+Mar 2023,Bank of India,171.56,93.02%,1.60%,50.40%
+Mar 2023,Indian Bank,115.76,88.38%,5.33%,40.42%
+Mar 2023,Central Bank Of India,95.53,90.13%,2.90%,63.32%
+Mar 2023,IDBI Bank Limited,66.58,94.57%,0.75%,64.13%
+Mar 2023,Federal Bank,62.84,93.07%,1.55%,71.18%
+Mar 2023,Airtel Payments Bank,62.35,86.08%,1.98%,72.95%
+Mar 2023,Bank of Maharashtra,59.9,93.98%,0.66%,83.88%
+Mar 2023,Indian Overseas Bank,56.35,93.65%,0.32%,85.81%
+Mar 2023,Yes Bank Ltd,49.25,93.93%,0.15%,95.73%
+Mar 2023,UCO Bank,48.84,91.28%,1.25%,52.87%
+Mar 2023,India Post Payment Bank,46.7,76.03%,6.42%,15.73%
+Mar 2023,Karnataka Bank,43.45,88.64%,2.44%,32.26%
+Mar 2023,IndusInd Bank,39.77,90.66%,0.52%,92.96%
+Mar 2023,IDFC First Bank,27.57,92.69%,1.24%,32.94%
+Mar 2023,Karur Vysya Bank,27.44,90.87%,0.93%,66.96%
+Mar 2023,Fino Payments Bank,23.19,78.89%,2.44%,99.04%
+Mar 2023,Bandhan Bank,19.49,87.73%,1.28%,14.62%
+Mar 2023,South Indian Bank,19.31,92.59%,0.24%,95.71%
+Mar 2023,DBS Bank India Limited,17.27,92.94%,1.29%,53.46%
+Mar 2023,City Union Bank,14.54,89.16%,4.35%,66.19%
+Mar 2023,Citibank,14.16,94.68%,0.72%,99.50%
+Mar 2023,Equitas Small Finance Bank,13.53,83.50%,0.78%,82.94%
+Mar 2023,Andhra Pradesh Grameena Vikas Bank,12.37,67.73%,14.39%,5.74%
+Mar 2023,Standard Chartered,12.23,94.56%,2.00%,50.59%
+Mar 2023,Ujjivan Small Finance Bank,11.96,89.62%,2.57%,36.94%
+Mar 2023,Tamilnad Mercantile Bank,10.67,90.33%,0.91%,38.94%
+Mar 2023,Maharashtra Gramin Bank,10.52,82.13%,2.62%,15.73%
+Mar 2023,AU small Finance Bank,10.33,92.78%,0.86%,0.03%
+Mar 2023,Saraswat Bank,10.21,94.69%,0.43%,74.07%
+Mar 2023,Pragathi Krishna Gramin Bank,10.21,87.48%,1.11%,64.09%
+Mar 2023,Jammu and Kashmir Bank,9.8,89.15%,1.43%,79.09%
+Mar 2023,Punjab and Sind Bank,9.6,88.55%,0.37%,89.90%
+Mar 2023,Andhra Pragathi Grameena Bank,8.63,61.73%,5.04%,5.75%
+Mar 2023,Rajasthan Marudhara Gramin Bank,7.57,75.62%,10.19%,7.37%
+Mar 2023,Kerala Gramin Bank,7.18,87.13%,0.73%,87.28%
+Mar 2023,ESAF Small Finance Bank Ltd.,6.81,84.30%,3.81%,75.80%
+Mar 2023,RBL Bank,6.05,91.98%,0.15%,92.58%
+Mar 2023,Baroda Rajasthan Kshetriya Gramin Bank,5.75,87.79%,2.77%,33.87%
+Mar 2023,Sarva Haryana Gramin Bank,5.65,88.63%,3.19%,79.14%
+Mar 2023,Telangana Grameena bank,5.26,78.85%,5.96%,7.75%
+Mar 2024,State Bank Of India,1291.88,91.70%,1.21%,95.66%
+Mar 2024,HDFC Bank Ltd,406.61,94.01%,0.29%,91.30%
+Mar 2024,Bank of Baroda,299.12,92.13%,0.49%,98.88%
+Mar 2024,Union Bank of India,287.21,90.21%,0.97%,46.80%
+Mar 2024,ICICI Bank,274.0,95.14%,0.17%,69.88%
+Mar 2024,Paytm Payments Bank,262.28,94.95%,0.08%,94.04%
+Mar 2024,Axis Bank Ltd,243.68,95.25%,0.25%,97.79%
+Mar 2024,Punjab National Bank,213.48,92.49%,0.61%,90.03%
+Mar 2024,Canara Bank,206.3,92.47%,0.47%,92.99%
+Mar 2024,Kotak Mahindra Bank,186.34,94.30%,0.29%,86.27%
+Mar 2024,Bank of India,171.56,93.02%,1.60%,50.40%
+Mar 2024,Indian Bank,115.76,88.38%,5.33%,40.42%
+Mar 2024,Central Bank Of India,95.53,90.13%,2.90%,63.32%
+Mar 2024,IDBI Bank Limited,66.58,94.57%,0.75%,64.13%
+Mar 2024,Federal Bank,62.84,93.07%,1.55%,71.18%
+Mar 2024,Airtel Payments Bank,62.35,86.08%,1.98%,72.95%
+Mar 2024,Bank of Maharashtra,59.9,93.98%,0.66%,83.88%
+Mar 2024,Indian Overseas Bank,56.35,93.65%,0.32%,85.81%
+Mar 2024,Yes Bank Ltd,49.25,93.93%,0.15%,95.73%
+Mar 2024,UCO Bank,48.84,91.28%,1.25%,52.87%
+Mar 2024,India Post Payment Bank,46.7,76.03%,6.42%,15.73%
+Mar 2024,Karnataka Bank,43.45,88.64%,2.44%,32.26%
+Mar 2024,IndusInd Bank,39.77,90.66%,0.52%,92.96%
+Mar 2024,IDFC First Bank,27.57,92.69%,1.24%,32.94%
+Mar 2024,Karur Vysya Bank,27.44,90.87%,0.93%,66.96%
+Mar 2024,Fino Payments Bank,23.19,78.89%,2.44%,99.04%
+Mar 2024,Bandhan Bank,19.49,87.73%,1.28%,14.62%
+Mar 2024,South Indian Bank,19.31,92.59%,0.24%,95.71%
+Mar 2024,DBS Bank India Limited,17.27,92.94%,1.29%,53.46%
+Mar 2024,City Union Bank,14.54,89.16%,4.35%,66.19%
+Mar 2024,Citibank,14.16,94.68%,0.72%,99.50%
+Mar 2024,Equitas Small Finance Bank,13.53,83.50%,0.78%,82.94%
+Mar 2024,Andhra Pradesh Grameena Vikas Bank,12.37,67.73%,14.39%,5.74%
+Mar 2024,Standard Chartered,12.23,94.56%,2.00%,50.59%
+Mar 2024,Ujjivan Small Finance Bank,11.96,89.62%,2.57%,36.94%
+Mar 2024,Tamilnad Mercantile Bank,10.67,90.33%,0.91%,38.94%
+Mar 2024,Maharashtra Gramin Bank,10.52,82.13%,2.62%,15.73%
+Mar 2024,AU small Finance Bank,10.33,92.78%,0.86%,0.03%
+Mar 2024,Saraswat Bank,10.21,94.69%,0.43%,74.07%
+Mar 2024,Pragathi Krishna Gramin Bank,10.21,87.48%,1.11%,64.09%
+Mar 2024,Jammu and Kashmir Bank,9.8,89.15%,1.43%,79.09%
+Mar 2024,Punjab and Sind Bank,9.6,88.55%,0.37%,89.90%
+Mar 2024,Andhra Pragathi Grameena Bank,8.63,61.73%,5.04%,5.75%
+Mar 2024,Rajasthan Marudhara Gramin Bank,7.57,75.62%,10.19%,7.37%
+Mar 2024,Kerala Gramin Bank,7.18,87.13%,0.73%,87.28%
+Mar 2024,ESAF Small Finance Bank Ltd.,6.81,84.30%,3.81%,75.80%
+Mar 2024,RBL Bank,6.05,91.98%,0.15%,92.58%
+Mar 2024,Baroda Rajasthan Kshetriya Gramin Bank,5.75,87.79%,2.77%,33.87%
+Mar 2024,Sarva Haryana Gramin Bank,5.65,88.63%,3.19%,79.14%
+Mar 2024,Telangana Grameena bank,5.26,78.85%,5.96%,7.75%
+May 2022,State Bank Of India,1291.88,91.70%,1.21%,95.66%
+May 2022,HDFC Bank Ltd,406.61,94.01%,0.29%,91.30%
+May 2022,Bank of Baroda,299.12,92.13%,0.49%,98.88%
+May 2022,Union Bank of India,287.21,90.21%,0.97%,46.80%
+May 2022,ICICI Bank,274.0,95.14%,0.17%,69.88%
+May 2022,Paytm Payments Bank,262.28,94.95%,0.08%,94.04%
+May 2022,Axis Bank Ltd,243.68,95.25%,0.25%,97.79%
+May 2022,Punjab National Bank,213.48,92.49%,0.61%,90.03%
+May 2022,Canara Bank,206.3,92.47%,0.47%,92.99%
+May 2022,Kotak Mahindra Bank,186.34,94.30%,0.29%,86.27%
+May 2022,Bank of India,171.56,93.02%,1.60%,50.40%
+May 2022,Indian Bank,115.76,88.38%,5.33%,40.42%
+May 2022,Central Bank Of India,95.53,90.13%,2.90%,63.32%
+May 2022,IDBI Bank Limited,66.58,94.57%,0.75%,64.13%
+May 2022,Federal Bank,62.84,93.07%,1.55%,71.18%
+May 2022,Airtel Payments Bank,62.35,86.08%,1.98%,72.95%
+May 2022,Bank of Maharashtra,59.9,93.98%,0.66%,83.88%
+May 2022,Indian Overseas Bank,56.35,93.65%,0.32%,85.81%
+May 2022,Yes Bank Ltd,49.25,93.93%,0.15%,95.73%
+May 2022,UCO Bank,48.84,91.28%,1.25%,52.87%
+May 2022,India Post Payment Bank,46.7,76.03%,6.42%,15.73%
+May 2022,Karnataka Bank,43.45,88.64%,2.44%,32.26%
+May 2022,IndusInd Bank,39.77,90.66%,0.52%,92.96%
+May 2022,IDFC First Bank,27.57,92.69%,1.24%,32.94%
+May 2022,Karur Vysya Bank,27.44,90.87%,0.93%,66.96%
+May 2022,Fino Payments Bank,23.19,78.89%,2.44%,99.04%
+May 2022,Bandhan Bank,19.49,87.73%,1.28%,14.62%
+May 2022,South Indian Bank,19.31,92.59%,0.24%,95.71%
+May 2022,DBS Bank India Limited,17.27,92.94%,1.29%,53.46%
+May 2022,City Union Bank,14.54,89.16%,4.35%,66.19%
+May 2022,Citibank,14.16,94.68%,0.72%,99.50%
+May 2022,Equitas Small Finance Bank,13.53,83.50%,0.78%,82.94%
+May 2022,Andhra Pradesh Grameena Vikas Bank,12.37,67.73%,14.39%,5.74%
+May 2022,Standard Chartered,12.23,94.56%,2.00%,50.59%
+May 2022,Ujjivan Small Finance Bank,11.96,89.62%,2.57%,36.94%
+May 2022,Tamilnad Mercantile Bank,10.67,90.33%,0.91%,38.94%
+May 2022,Maharashtra Gramin Bank,10.52,82.13%,2.62%,15.73%
+May 2022,AU small Finance Bank,10.33,92.78%,0.86%,0.03%
+May 2022,Saraswat Bank,10.21,94.69%,0.43%,74.07%
+May 2022,Pragathi Krishna Gramin Bank,10.21,87.48%,1.11%,64.09%
+May 2022,Jammu and Kashmir Bank,9.8,89.15%,1.43%,79.09%
+May 2022,Punjab and Sind Bank,9.6,88.55%,0.37%,89.90%
+May 2022,Andhra Pragathi Grameena Bank,8.63,61.73%,5.04%,5.75%
+May 2022,Rajasthan Marudhara Gramin Bank,7.57,75.62%,10.19%,7.37%
+May 2022,Kerala Gramin Bank,7.18,87.13%,0.73%,87.28%
+May 2022,ESAF Small Finance Bank Ltd.,6.81,84.30%,3.81%,75.80%
+May 2022,RBL Bank,6.05,91.98%,0.15%,92.58%
+May 2022,Baroda Rajasthan Kshetriya Gramin Bank,5.75,87.79%,2.77%,33.87%
+May 2022,Sarva Haryana Gramin Bank,5.65,88.63%,3.19%,79.14%
+May 2022,Telangana Grameena bank,5.26,78.85%,5.96%,7.75%
+May 2023,State Bank Of India,1291.88,91.70%,1.21%,95.66%
+May 2023,HDFC Bank Ltd,406.61,94.01%,0.29%,91.30%
+May 2023,Bank of Baroda,299.12,92.13%,0.49%,98.88%
+May 2023,Union Bank of India,287.21,90.21%,0.97%,46.80%
+May 2023,ICICI Bank,274.0,95.14%,0.17%,69.88%
+May 2023,Paytm Payments Bank,262.28,94.95%,0.08%,94.04%
+May 2023,Axis Bank Ltd,243.68,95.25%,0.25%,97.79%
+May 2023,Punjab National Bank,213.48,92.49%,0.61%,90.03%
+May 2023,Canara Bank,206.3,92.47%,0.47%,92.99%
+May 2023,Kotak Mahindra Bank,186.34,94.30%,0.29%,86.27%
+May 2023,Bank of India,171.56,93.02%,1.60%,50.40%
+May 2023,Indian Bank,115.76,88.38%,5.33%,40.42%
+May 2023,Central Bank Of India,95.53,90.13%,2.90%,63.32%
+May 2023,IDBI Bank Limited,66.58,94.57%,0.75%,64.13%
+May 2023,Federal Bank,62.84,93.07%,1.55%,71.18%
+May 2023,Airtel Payments Bank,62.35,86.08%,1.98%,72.95%
+May 2023,Bank of Maharashtra,59.9,93.98%,0.66%,83.88%
+May 2023,Indian Overseas Bank,56.35,93.65%,0.32%,85.81%
+May 2023,Yes Bank Ltd,49.25,93.93%,0.15%,95.73%
+May 2023,UCO Bank,48.84,91.28%,1.25%,52.87%
+May 2023,India Post Payment Bank,46.7,76.03%,6.42%,15.73%
+May 2023,Karnataka Bank,43.45,88.64%,2.44%,32.26%
+May 2023,IndusInd Bank,39.77,90.66%,0.52%,92.96%
+May 2023,IDFC First Bank,27.57,92.69%,1.24%,32.94%
+May 2023,Karur Vysya Bank,27.44,90.87%,0.93%,66.96%
+May 2023,Fino Payments Bank,23.19,78.89%,2.44%,99.04%
+May 2023,Bandhan Bank,19.49,87.73%,1.28%,14.62%
+May 2023,South Indian Bank,19.31,92.59%,0.24%,95.71%
+May 2023,DBS Bank India Limited,17.27,92.94%,1.29%,53.46%
+May 2023,City Union Bank,14.54,89.16%,4.35%,66.19%
+May 2023,Citibank,14.16,94.68%,0.72%,99.50%
+May 2023,Equitas Small Finance Bank,13.53,83.50%,0.78%,82.94%
+May 2023,Andhra Pradesh Grameena Vikas Bank,12.37,67.73%,14.39%,5.74%
+May 2023,Standard Chartered,12.23,94.56%,2.00%,50.59%
+May 2023,Ujjivan Small Finance Bank,11.96,89.62%,2.57%,36.94%
+May 2023,Tamilnad Mercantile Bank,10.67,90.33%,0.91%,38.94%
+May 2023,Maharashtra Gramin Bank,10.52,82.13%,2.62%,15.73%
+May 2023,AU small Finance Bank,10.33,92.78%,0.86%,0.03%
+May 2023,Saraswat Bank,10.21,94.69%,0.43%,74.07%
+May 2023,Pragathi Krishna Gramin Bank,10.21,87.48%,1.11%,64.09%
+May 2023,Jammu and Kashmir Bank,9.8,89.15%,1.43%,79.09%
+May 2023,Punjab and Sind Bank,9.6,88.55%,0.37%,89.90%
+May 2023,Andhra Pragathi Grameena Bank,8.63,61.73%,5.04%,5.75%
+May 2023,Rajasthan Marudhara Gramin Bank,7.57,75.62%,10.19%,7.37%
+May 2023,Kerala Gramin Bank,7.18,87.13%,0.73%,87.28%
+May 2023,ESAF Small Finance Bank Ltd.,6.81,84.30%,3.81%,75.80%
+May 2023,RBL Bank,6.05,91.98%,0.15%,92.58%
+May 2023,Baroda Rajasthan Kshetriya Gramin Bank,5.75,87.79%,2.77%,33.87%
+May 2023,Sarva Haryana Gramin Bank,5.65,88.63%,3.19%,79.14%
+May 2023,Telangana Grameena bank,5.26,78.85%,5.96%,7.75%
+May 2024,State Bank Of India,1291.88,91.70%,1.21%,95.66%
+May 2024,HDFC Bank Ltd,406.61,94.01%,0.29%,91.30%
+May 2024,Bank of Baroda,299.12,92.13%,0.49%,98.88%
+May 2024,Union Bank of India,287.21,90.21%,0.97%,46.80%
+May 2024,ICICI Bank,274.0,95.14%,0.17%,69.88%
+May 2024,Paytm Payments Bank,262.28,94.95%,0.08%,94.04%
+May 2024,Axis Bank Ltd,243.68,95.25%,0.25%,97.79%
+May 2024,Punjab National Bank,213.48,92.49%,0.61%,90.03%
+May 2024,Canara Bank,206.3,92.47%,0.47%,92.99%
+May 2024,Kotak Mahindra Bank,186.34,94.30%,0.29%,86.27%
+May 2024,Bank of India,171.56,93.02%,1.60%,50.40%
+May 2024,Indian Bank,115.76,88.38%,5.33%,40.42%
+May 2024,Central Bank Of India,95.53,90.13%,2.90%,63.32%
+May 2024,IDBI Bank Limited,66.58,94.57%,0.75%,64.13%
+May 2024,Federal Bank,62.84,93.07%,1.55%,71.18%
+May 2024,Airtel Payments Bank,62.35,86.08%,1.98%,72.95%
+May 2024,Bank of Maharashtra,59.9,93.98%,0.66%,83.88%
+May 2024,Indian Overseas Bank,56.35,93.65%,0.32%,85.81%
+May 2024,Yes Bank Ltd,49.25,93.93%,0.15%,95.73%
+May 2024,UCO Bank,48.84,91.28%,1.25%,52.87%
+May 2024,India Post Payment Bank,46.7,76.03%,6.42%,15.73%
+May 2024,Karnataka Bank,43.45,88.64%,2.44%,32.26%
+May 2024,IndusInd Bank,39.77,90.66%,0.52%,92.96%
+May 2024,IDFC First Bank,27.57,92.69%,1.24%,32.94%
+May 2024,Karur Vysya Bank,27.44,90.87%,0.93%,66.96%
+May 2024,Fino Payments Bank,23.19,78.89%,2.44%,99.04%
+May 2024,Bandhan Bank,19.49,87.73%,1.28%,14.62%
+May 2024,South Indian Bank,19.31,92.59%,0.24%,95.71%
+May 2024,DBS Bank India Limited,17.27,92.94%,1.29%,53.46%
+May 2024,City Union Bank,14.54,89.16%,4.35%,66.19%
+May 2024,Citibank,14.16,94.68%,0.72%,99.50%
+May 2024,Equitas Small Finance Bank,13.53,83.50%,0.78%,82.94%
+May 2024,Andhra Pradesh Grameena Vikas Bank,12.37,67.73%,14.39%,5.74%
+May 2024,Standard Chartered,12.23,94.56%,2.00%,50.59%
+May 2024,Ujjivan Small Finance Bank,11.96,89.62%,2.57%,36.94%
+May 2024,Tamilnad Mercantile Bank,10.67,90.33%,0.91%,38.94%
+May 2024,Maharashtra Gramin Bank,10.52,82.13%,2.62%,15.73%
+May 2024,AU small Finance Bank,10.33,92.78%,0.86%,0.03%
+May 2024,Saraswat Bank,10.21,94.69%,0.43%,74.07%
+May 2024,Pragathi Krishna Gramin Bank,10.21,87.48%,1.11%,64.09%
+May 2024,Jammu and Kashmir Bank,9.8,89.15%,1.43%,79.09%
+May 2024,Punjab and Sind Bank,9.6,88.55%,0.37%,89.90%
+May 2024,Andhra Pragathi Grameena Bank,8.63,61.73%,5.04%,5.75%
+May 2024,Rajasthan Marudhara Gramin Bank,7.57,75.62%,10.19%,7.37%
+May 2024,Kerala Gramin Bank,7.18,87.13%,0.73%,87.28%
+May 2024,ESAF Small Finance Bank Ltd.,6.81,84.30%,3.81%,75.80%
+May 2024,RBL Bank,6.05,91.98%,0.15%,92.58%
+May 2024,Baroda Rajasthan Kshetriya Gramin Bank,5.75,87.79%,2.77%,33.87%
+May 2024,Sarva Haryana Gramin Bank,5.65,88.63%,3.19%,79.14%
+May 2024,Telangana Grameena bank,5.26,78.85%,5.96%,7.75%
+Nov 2022,State Bank Of India,1291.88,91.70%,1.21%,95.66%
+Nov 2022,HDFC Bank Ltd,406.61,94.01%,0.29%,91.30%
+Nov 2022,Bank of Baroda,299.12,92.13%,0.49%,98.88%
+Nov 2022,Union Bank of India,287.21,90.21%,0.97%,46.80%
+Nov 2022,ICICI Bank,274.0,95.14%,0.17%,69.88%
+Nov 2022,Paytm Payments Bank,262.28,94.95%,0.08%,94.04%
+Nov 2022,Axis Bank Ltd,243.68,95.25%,0.25%,97.79%
+Nov 2022,Punjab National Bank,213.48,92.49%,0.61%,90.03%
+Nov 2022,Canara Bank,206.3,92.47%,0.47%,92.99%
+Nov 2022,Kotak Mahindra Bank,186.34,94.30%,0.29%,86.27%
+Nov 2022,Bank of India,171.56,93.02%,1.60%,50.40%
+Nov 2022,Indian Bank,115.76,88.38%,5.33%,40.42%
+Nov 2022,Central Bank Of India,95.53,90.13%,2.90%,63.32%
+Nov 2022,IDBI Bank Limited,66.58,94.57%,0.75%,64.13%
+Nov 2022,Federal Bank,62.84,93.07%,1.55%,71.18%
+Nov 2022,Airtel Payments Bank,62.35,86.08%,1.98%,72.95%
+Nov 2022,Bank of Maharashtra,59.9,93.98%,0.66%,83.88%
+Nov 2022,Indian Overseas Bank,56.35,93.65%,0.32%,85.81%
+Nov 2022,Yes Bank Ltd,49.25,93.93%,0.15%,95.73%
+Nov 2022,UCO Bank,48.84,91.28%,1.25%,52.87%
+Nov 2022,India Post Payment Bank,46.7,76.03%,6.42%,15.73%
+Nov 2022,Karnataka Bank,43.45,88.64%,2.44%,32.26%
+Nov 2022,IndusInd Bank,39.77,90.66%,0.52%,92.96%
+Nov 2022,IDFC First Bank,27.57,92.69%,1.24%,32.94%
+Nov 2022,Karur Vysya Bank,27.44,90.87%,0.93%,66.96%
+Nov 2022,Fino Payments Bank,23.19,78.89%,2.44%,99.04%
+Nov 2022,Bandhan Bank,19.49,87.73%,1.28%,14.62%
+Nov 2022,South Indian Bank,19.31,92.59%,0.24%,95.71%
+Nov 2022,DBS Bank India Limited,17.27,92.94%,1.29%,53.46%
+Nov 2022,City Union Bank,14.54,89.16%,4.35%,66.19%
+Nov 2022,Citibank,14.16,94.68%,0.72%,99.50%
+Nov 2022,Equitas Small Finance Bank,13.53,83.50%,0.78%,82.94%
+Nov 2022,Andhra Pradesh Grameena Vikas Bank,12.37,67.73%,14.39%,5.74%
+Nov 2022,Standard Chartered,12.23,94.56%,2.00%,50.59%
+Nov 2022,Ujjivan Small Finance Bank,11.96,89.62%,2.57%,36.94%
+Nov 2022,Tamilnad Mercantile Bank,10.67,90.33%,0.91%,38.94%
+Nov 2022,Maharashtra Gramin Bank,10.52,82.13%,2.62%,15.73%
+Nov 2022,AU small Finance Bank,10.33,92.78%,0.86%,0.03%
+Nov 2022,Saraswat Bank,10.21,94.69%,0.43%,74.07%
+Nov 2022,Pragathi Krishna Gramin Bank,10.21,87.48%,1.11%,64.09%
+Nov 2022,Jammu and Kashmir Bank,9.8,89.15%,1.43%,79.09%
+Nov 2022,Punjab and Sind Bank,9.6,88.55%,0.37%,89.90%
+Nov 2022,Andhra Pragathi Grameena Bank,8.63,61.73%,5.04%,5.75%
+Nov 2022,Rajasthan Marudhara Gramin Bank,7.57,75.62%,10.19%,7.37%
+Nov 2022,Kerala Gramin Bank,7.18,87.13%,0.73%,87.28%
+Nov 2022,ESAF Small Finance Bank Ltd.,6.81,84.30%,3.81%,75.80%
+Nov 2022,RBL Bank,6.05,91.98%,0.15%,92.58%
+Nov 2022,Baroda Rajasthan Kshetriya Gramin Bank,5.75,87.79%,2.77%,33.87%
+Nov 2022,Sarva Haryana Gramin Bank,5.65,88.63%,3.19%,79.14%
+Nov 2022,Telangana Grameena bank,5.26,78.85%,5.96%,7.75%
+Nov 2023,State Bank Of India,1291.88,91.70%,1.21%,95.66%
+Nov 2023,HDFC Bank Ltd,406.61,94.01%,0.29%,91.30%
+Nov 2023,Bank of Baroda,299.12,92.13%,0.49%,98.88%
+Nov 2023,Union Bank of India,287.21,90.21%,0.97%,46.80%
+Nov 2023,ICICI Bank,274.0,95.14%,0.17%,69.88%
+Nov 2023,Paytm Payments Bank,262.28,94.95%,0.08%,94.04%
+Nov 2023,Axis Bank Ltd,243.68,95.25%,0.25%,97.79%
+Nov 2023,Punjab National Bank,213.48,92.49%,0.61%,90.03%
+Nov 2023,Canara Bank,206.3,92.47%,0.47%,92.99%
+Nov 2023,Kotak Mahindra Bank,186.34,94.30%,0.29%,86.27%
+Nov 2023,Bank of India,171.56,93.02%,1.60%,50.40%
+Nov 2023,Indian Bank,115.76,88.38%,5.33%,40.42%
+Nov 2023,Central Bank Of India,95.53,90.13%,2.90%,63.32%
+Nov 2023,IDBI Bank Limited,66.58,94.57%,0.75%,64.13%
+Nov 2023,Federal Bank,62.84,93.07%,1.55%,71.18%
+Nov 2023,Airtel Payments Bank,62.35,86.08%,1.98%,72.95%
+Nov 2023,Bank of Maharashtra,59.9,93.98%,0.66%,83.88%
+Nov 2023,Indian Overseas Bank,56.35,93.65%,0.32%,85.81%
+Nov 2023,Yes Bank Ltd,49.25,93.93%,0.15%,95.73%
+Nov 2023,UCO Bank,48.84,91.28%,1.25%,52.87%
+Nov 2023,India Post Payment Bank,46.7,76.03%,6.42%,15.73%
+Nov 2023,Karnataka Bank,43.45,88.64%,2.44%,32.26%
+Nov 2023,IndusInd Bank,39.77,90.66%,0.52%,92.96%
+Nov 2023,IDFC First Bank,27.57,92.69%,1.24%,32.94%
+Nov 2023,Karur Vysya Bank,27.44,90.87%,0.93%,66.96%
+Nov 2023,Fino Payments Bank,23.19,78.89%,2.44%,99.04%
+Nov 2023,Bandhan Bank,19.49,87.73%,1.28%,14.62%
+Nov 2023,South Indian Bank,19.31,92.59%,0.24%,95.71%
+Nov 2023,DBS Bank India Limited,17.27,92.94%,1.29%,53.46%
+Nov 2023,City Union Bank,14.54,89.16%,4.35%,66.19%
+Nov 2023,Citibank,14.16,94.68%,0.72%,99.50%
+Nov 2023,Equitas Small Finance Bank,13.53,83.50%,0.78%,82.94%
+Nov 2023,Andhra Pradesh Grameena Vikas Bank,12.37,67.73%,14.39%,5.74%
+Nov 2023,Standard Chartered,12.23,94.56%,2.00%,50.59%
+Nov 2023,Ujjivan Small Finance Bank,11.96,89.62%,2.57%,36.94%
+Nov 2023,Tamilnad Mercantile Bank,10.67,90.33%,0.91%,38.94%
+Nov 2023,Maharashtra Gramin Bank,10.52,82.13%,2.62%,15.73%
+Nov 2023,AU small Finance Bank,10.33,92.78%,0.86%,0.03%
+Nov 2023,Saraswat Bank,10.21,94.69%,0.43%,74.07%
+Nov 2023,Pragathi Krishna Gramin Bank,10.21,87.48%,1.11%,64.09%
+Nov 2023,Jammu and Kashmir Bank,9.8,89.15%,1.43%,79.09%
+Nov 2023,Punjab and Sind Bank,9.6,88.55%,0.37%,89.90%
+Nov 2023,Andhra Pragathi Grameena Bank,8.63,61.73%,5.04%,5.75%
+Nov 2023,Rajasthan Marudhara Gramin Bank,7.57,75.62%,10.19%,7.37%
+Nov 2023,Kerala Gramin Bank,7.18,87.13%,0.73%,87.28%
+Nov 2023,ESAF Small Finance Bank Ltd.,6.81,84.30%,3.81%,75.80%
+Nov 2023,RBL Bank,6.05,91.98%,0.15%,92.58%
+Nov 2023,Baroda Rajasthan Kshetriya Gramin Bank,5.75,87.79%,2.77%,33.87%
+Nov 2023,Sarva Haryana Gramin Bank,5.65,88.63%,3.19%,79.14%
+Nov 2023,Telangana Grameena bank,5.26,78.85%,5.96%,7.75%
+Nov 2024,State Bank Of India,1291.88,91.70%,1.21%,95.66%
+Nov 2024,HDFC Bank Ltd,406.61,94.01%,0.29%,91.30%
+Nov 2024,Bank of Baroda,299.12,92.13%,0.49%,98.88%
+Nov 2024,Union Bank of India,287.21,90.21%,0.97%,46.80%
+Nov 2024,ICICI Bank,274.0,95.14%,0.17%,69.88%
+Nov 2024,Paytm Payments Bank,262.28,94.95%,0.08%,94.04%
+Nov 2024,Axis Bank Ltd,243.68,95.25%,0.25%,97.79%
+Nov 2024,Punjab National Bank,213.48,92.49%,0.61%,90.03%
+Nov 2024,Canara Bank,206.3,92.47%,0.47%,92.99%
+Nov 2024,Kotak Mahindra Bank,186.34,94.30%,0.29%,86.27%
+Nov 2024,Bank of India,171.56,93.02%,1.60%,50.40%
+Nov 2024,Indian Bank,115.76,88.38%,5.33%,40.42%
+Nov 2024,Central Bank Of India,95.53,90.13%,2.90%,63.32%
+Nov 2024,IDBI Bank Limited,66.58,94.57%,0.75%,64.13%
+Nov 2024,Federal Bank,62.84,93.07%,1.55%,71.18%
+Nov 2024,Airtel Payments Bank,62.35,86.08%,1.98%,72.95%
+Nov 2024,Bank of Maharashtra,59.9,93.98%,0.66%,83.88%
+Nov 2024,Indian Overseas Bank,56.35,93.65%,0.32%,85.81%
+Nov 2024,Yes Bank Ltd,49.25,93.93%,0.15%,95.73%
+Nov 2024,UCO Bank,48.84,91.28%,1.25%,52.87%
+Nov 2024,India Post Payment Bank,46.7,76.03%,6.42%,15.73%
+Nov 2024,Karnataka Bank,43.45,88.64%,2.44%,32.26%
+Nov 2024,IndusInd Bank,39.77,90.66%,0.52%,92.96%
+Nov 2024,IDFC First Bank,27.57,92.69%,1.24%,32.94%
+Nov 2024,Karur Vysya Bank,27.44,90.87%,0.93%,66.96%
+Nov 2024,Fino Payments Bank,23.19,78.89%,2.44%,99.04%
+Nov 2024,Bandhan Bank,19.49,87.73%,1.28%,14.62%
+Nov 2024,South Indian Bank,19.31,92.59%,0.24%,95.71%
+Nov 2024,DBS Bank India Limited,17.27,92.94%,1.29%,53.46%
+Nov 2024,City Union Bank,14.54,89.16%,4.35%,66.19%
+Nov 2024,Citibank,14.16,94.68%,0.72%,99.50%
+Nov 2024,Equitas Small Finance Bank,13.53,83.50%,0.78%,82.94%
+Nov 2024,Andhra Pradesh Grameena Vikas Bank,12.37,67.73%,14.39%,5.74%
+Nov 2024,Standard Chartered,12.23,94.56%,2.00%,50.59%
+Nov 2024,Ujjivan Small Finance Bank,11.96,89.62%,2.57%,36.94%
+Nov 2024,Tamilnad Mercantile Bank,10.67,90.33%,0.91%,38.94%
+Nov 2024,Maharashtra Gramin Bank,10.52,82.13%,2.62%,15.73%
+Nov 2024,AU small Finance Bank,10.33,92.78%,0.86%,0.03%
+Nov 2024,Saraswat Bank,10.21,94.69%,0.43%,74.07%
+Nov 2024,Pragathi Krishna Gramin Bank,10.21,87.48%,1.11%,64.09%
+Nov 2024,Jammu and Kashmir Bank,9.8,89.15%,1.43%,79.09%
+Nov 2024,Punjab and Sind Bank,9.6,88.55%,0.37%,89.90%
+Nov 2024,Andhra Pragathi Grameena Bank,8.63,61.73%,5.04%,5.75%
+Nov 2024,Rajasthan Marudhara Gramin Bank,7.57,75.62%,10.19%,7.37%
+Nov 2024,Kerala Gramin Bank,7.18,87.13%,0.73%,87.28%
+Nov 2024,ESAF Small Finance Bank Ltd.,6.81,84.30%,3.81%,75.80%
+Nov 2024,RBL Bank,6.05,91.98%,0.15%,92.58%
+Nov 2024,Baroda Rajasthan Kshetriya Gramin Bank,5.75,87.79%,2.77%,33.87%
+Nov 2024,Sarva Haryana Gramin Bank,5.65,88.63%,3.19%,79.14%
+Nov 2024,Telangana Grameena bank,5.26,78.85%,5.96%,7.75%
+Oct 2022,State Bank Of India,1291.88,91.70%,1.21%,95.66%
+Oct 2022,HDFC Bank Ltd,406.61,94.01%,0.29%,91.30%
+Oct 2022,Bank of Baroda,299.12,92.13%,0.49%,98.88%
+Oct 2022,Union Bank of India,287.21,90.21%,0.97%,46.80%
+Oct 2022,ICICI Bank,274.0,95.14%,0.17%,69.88%
+Oct 2022,Paytm Payments Bank,262.28,94.95%,0.08%,94.04%
+Oct 2022,Axis Bank Ltd,243.68,95.25%,0.25%,97.79%
+Oct 2022,Punjab National Bank,213.48,92.49%,0.61%,90.03%
+Oct 2022,Canara Bank,206.3,92.47%,0.47%,92.99%
+Oct 2022,Kotak Mahindra Bank,186.34,94.30%,0.29%,86.27%
+Oct 2022,Bank of India,171.56,93.02%,1.60%,50.40%
+Oct 2022,Indian Bank,115.76,88.38%,5.33%,40.42%
+Oct 2022,Central Bank Of India,95.53,90.13%,2.90%,63.32%
+Oct 2022,IDBI Bank Limited,66.58,94.57%,0.75%,64.13%
+Oct 2022,Federal Bank,62.84,93.07%,1.55%,71.18%
+Oct 2022,Airtel Payments Bank,62.35,86.08%,1.98%,72.95%
+Oct 2022,Bank of Maharashtra,59.9,93.98%,0.66%,83.88%
+Oct 2022,Indian Overseas Bank,56.35,93.65%,0.32%,85.81%
+Oct 2022,Yes Bank Ltd,49.25,93.93%,0.15%,95.73%
+Oct 2022,UCO Bank,48.84,91.28%,1.25%,52.87%
+Oct 2022,India Post Payment Bank,46.7,76.03%,6.42%,15.73%
+Oct 2022,Karnataka Bank,43.45,88.64%,2.44%,32.26%
+Oct 2022,IndusInd Bank,39.77,90.66%,0.52%,92.96%
+Oct 2022,IDFC First Bank,27.57,92.69%,1.24%,32.94%
+Oct 2022,Karur Vysya Bank,27.44,90.87%,0.93%,66.96%
+Oct 2022,Fino Payments Bank,23.19,78.89%,2.44%,99.04%
+Oct 2022,Bandhan Bank,19.49,87.73%,1.28%,14.62%
+Oct 2022,South Indian Bank,19.31,92.59%,0.24%,95.71%
+Oct 2022,DBS Bank India Limited,17.27,92.94%,1.29%,53.46%
+Oct 2022,City Union Bank,14.54,89.16%,4.35%,66.19%
+Oct 2022,Citibank,14.16,94.68%,0.72%,99.50%
+Oct 2022,Equitas Small Finance Bank,13.53,83.50%,0.78%,82.94%
+Oct 2022,Andhra Pradesh Grameena Vikas Bank,12.37,67.73%,14.39%,5.74%
+Oct 2022,Standard Chartered,12.23,94.56%,2.00%,50.59%
+Oct 2022,Ujjivan Small Finance Bank,11.96,89.62%,2.57%,36.94%
+Oct 2022,Tamilnad Mercantile Bank,10.67,90.33%,0.91%,38.94%
+Oct 2022,Maharashtra Gramin Bank,10.52,82.13%,2.62%,15.73%
+Oct 2022,AU small Finance Bank,10.33,92.78%,0.86%,0.03%
+Oct 2022,Saraswat Bank,10.21,94.69%,0.43%,74.07%
+Oct 2022,Pragathi Krishna Gramin Bank,10.21,87.48%,1.11%,64.09%
+Oct 2022,Jammu and Kashmir Bank,9.8,89.15%,1.43%,79.09%
+Oct 2022,Punjab and Sind Bank,9.6,88.55%,0.37%,89.90%
+Oct 2022,Andhra Pragathi Grameena Bank,8.63,61.73%,5.04%,5.75%
+Oct 2022,Rajasthan Marudhara Gramin Bank,7.57,75.62%,10.19%,7.37%
+Oct 2022,Kerala Gramin Bank,7.18,87.13%,0.73%,87.28%
+Oct 2022,ESAF Small Finance Bank Ltd.,6.81,84.30%,3.81%,75.80%
+Oct 2022,RBL Bank,6.05,91.98%,0.15%,92.58%
+Oct 2022,Baroda Rajasthan Kshetriya Gramin Bank,5.75,87.79%,2.77%,33.87%
+Oct 2022,Sarva Haryana Gramin Bank,5.65,88.63%,3.19%,79.14%
+Oct 2022,Telangana Grameena bank,5.26,78.85%,5.96%,7.75%
+Oct 2023,State Bank Of India,1291.88,91.70%,1.21%,95.66%
+Oct 2023,HDFC Bank Ltd,406.61,94.01%,0.29%,91.30%
+Oct 2023,Bank of Baroda,299.12,92.13%,0.49%,98.88%
+Oct 2023,Union Bank of India,287.21,90.21%,0.97%,46.80%
+Oct 2023,ICICI Bank,274.0,95.14%,0.17%,69.88%
+Oct 2023,Paytm Payments Bank,262.28,94.95%,0.08%,94.04%
+Oct 2023,Axis Bank Ltd,243.68,95.25%,0.25%,97.79%
+Oct 2023,Punjab National Bank,213.48,92.49%,0.61%,90.03%
+Oct 2023,Canara Bank,206.3,92.47%,0.47%,92.99%
+Oct 2023,Kotak Mahindra Bank,186.34,94.30%,0.29%,86.27%
+Oct 2023,Bank of India,171.56,93.02%,1.60%,50.40%
+Oct 2023,Indian Bank,115.76,88.38%,5.33%,40.42%
+Oct 2023,Central Bank Of India,95.53,90.13%,2.90%,63.32%
+Oct 2023,IDBI Bank Limited,66.58,94.57%,0.75%,64.13%
+Oct 2023,Federal Bank,62.84,93.07%,1.55%,71.18%
+Oct 2023,Airtel Payments Bank,62.35,86.08%,1.98%,72.95%
+Oct 2023,Bank of Maharashtra,59.9,93.98%,0.66%,83.88%
+Oct 2023,Indian Overseas Bank,56.35,93.65%,0.32%,85.81%
+Oct 2023,Yes Bank Ltd,49.25,93.93%,0.15%,95.73%
+Oct 2023,UCO Bank,48.84,91.28%,1.25%,52.87%
+Oct 2023,India Post Payment Bank,46.7,76.03%,6.42%,15.73%
+Oct 2023,Karnataka Bank,43.45,88.64%,2.44%,32.26%
+Oct 2023,IndusInd Bank,39.77,90.66%,0.52%,92.96%
+Oct 2023,IDFC First Bank,27.57,92.69%,1.24%,32.94%
+Oct 2023,Karur Vysya Bank,27.44,90.87%,0.93%,66.96%
+Oct 2023,Fino Payments Bank,23.19,78.89%,2.44%,99.04%
+Oct 2023,Bandhan Bank,19.49,87.73%,1.28%,14.62%
+Oct 2023,South Indian Bank,19.31,92.59%,0.24%,95.71%
+Oct 2023,DBS Bank India Limited,17.27,92.94%,1.29%,53.46%
+Oct 2023,City Union Bank,14.54,89.16%,4.35%,66.19%
+Oct 2023,Citibank,14.16,94.68%,0.72%,99.50%
+Oct 2023,Equitas Small Finance Bank,13.53,83.50%,0.78%,82.94%
+Oct 2023,Andhra Pradesh Grameena Vikas Bank,12.37,67.73%,14.39%,5.74%
+Oct 2023,Standard Chartered,12.23,94.56%,2.00%,50.59%
+Oct 2023,Ujjivan Small Finance Bank,11.96,89.62%,2.57%,36.94%
+Oct 2023,Tamilnad Mercantile Bank,10.67,90.33%,0.91%,38.94%
+Oct 2023,Maharashtra Gramin Bank,10.52,82.13%,2.62%,15.73%
+Oct 2023,AU small Finance Bank,10.33,92.78%,0.86%,0.03%
+Oct 2023,Saraswat Bank,10.21,94.69%,0.43%,74.07%
+Oct 2023,Pragathi Krishna Gramin Bank,10.21,87.48%,1.11%,64.09%
+Oct 2023,Jammu and Kashmir Bank,9.8,89.15%,1.43%,79.09%
+Oct 2023,Punjab and Sind Bank,9.6,88.55%,0.37%,89.90%
+Oct 2023,Andhra Pragathi Grameena Bank,8.63,61.73%,5.04%,5.75%
+Oct 2023,Rajasthan Marudhara Gramin Bank,7.57,75.62%,10.19%,7.37%
+Oct 2023,Kerala Gramin Bank,7.18,87.13%,0.73%,87.28%
+Oct 2023,ESAF Small Finance Bank Ltd.,6.81,84.30%,3.81%,75.80%
+Oct 2023,RBL Bank,6.05,91.98%,0.15%,92.58%
+Oct 2023,Baroda Rajasthan Kshetriya Gramin Bank,5.75,87.79%,2.77%,33.87%
+Oct 2023,Sarva Haryana Gramin Bank,5.65,88.63%,3.19%,79.14%
+Oct 2023,Telangana Grameena bank,5.26,78.85%,5.96%,7.75%
+Oct 2024,State Bank Of India,1291.88,91.70%,1.21%,95.66%
+Oct 2024,HDFC Bank Ltd,406.61,94.01%,0.29%,91.30%
+Oct 2024,Bank of Baroda,299.12,92.13%,0.49%,98.88%
+Oct 2024,Union Bank of India,287.21,90.21%,0.97%,46.80%
+Oct 2024,ICICI Bank,274.0,95.14%,0.17%,69.88%
+Oct 2024,Paytm Payments Bank,262.28,94.95%,0.08%,94.04%
+Oct 2024,Axis Bank Ltd,243.68,95.25%,0.25%,97.79%
+Oct 2024,Punjab National Bank,213.48,92.49%,0.61%,90.03%
+Oct 2024,Canara Bank,206.3,92.47%,0.47%,92.99%
+Oct 2024,Kotak Mahindra Bank,186.34,94.30%,0.29%,86.27%
+Oct 2024,Bank of India,171.56,93.02%,1.60%,50.40%
+Oct 2024,Indian Bank,115.76,88.38%,5.33%,40.42%
+Oct 2024,Central Bank Of India,95.53,90.13%,2.90%,63.32%
+Oct 2024,IDBI Bank Limited,66.58,94.57%,0.75%,64.13%
+Oct 2024,Federal Bank,62.84,93.07%,1.55%,71.18%
+Oct 2024,Airtel Payments Bank,62.35,86.08%,1.98%,72.95%
+Oct 2024,Bank of Maharashtra,59.9,93.98%,0.66%,83.88%
+Oct 2024,Indian Overseas Bank,56.35,93.65%,0.32%,85.81%
+Oct 2024,Yes Bank Ltd,49.25,93.93%,0.15%,95.73%
+Oct 2024,UCO Bank,48.84,91.28%,1.25%,52.87%
+Oct 2024,India Post Payment Bank,46.7,76.03%,6.42%,15.73%
+Oct 2024,Karnataka Bank,43.45,88.64%,2.44%,32.26%
+Oct 2024,IndusInd Bank,39.77,90.66%,0.52%,92.96%
+Oct 2024,IDFC First Bank,27.57,92.69%,1.24%,32.94%
+Oct 2024,Karur Vysya Bank,27.44,90.87%,0.93%,66.96%
+Oct 2024,Fino Payments Bank,23.19,78.89%,2.44%,99.04%
+Oct 2024,Bandhan Bank,19.49,87.73%,1.28%,14.62%
+Oct 2024,South Indian Bank,19.31,92.59%,0.24%,95.71%
+Oct 2024,DBS Bank India Limited,17.27,92.94%,1.29%,53.46%
+Oct 2024,City Union Bank,14.54,89.16%,4.35%,66.19%
+Oct 2024,Citibank,14.16,94.68%,0.72%,99.50%
+Oct 2024,Equitas Small Finance Bank,13.53,83.50%,0.78%,82.94%
+Oct 2024,Andhra Pradesh Grameena Vikas Bank,12.37,67.73%,14.39%,5.74%
+Oct 2024,Standard Chartered,12.23,94.56%,2.00%,50.59%
+Oct 2024,Ujjivan Small Finance Bank,11.96,89.62%,2.57%,36.94%
+Oct 2024,Tamilnad Mercantile Bank,10.67,90.33%,0.91%,38.94%
+Oct 2024,Maharashtra Gramin Bank,10.52,82.13%,2.62%,15.73%
+Oct 2024,AU small Finance Bank,10.33,92.78%,0.86%,0.03%
+Oct 2024,Saraswat Bank,10.21,94.69%,0.43%,74.07%
+Oct 2024,Pragathi Krishna Gramin Bank,10.21,87.48%,1.11%,64.09%
+Oct 2024,Jammu and Kashmir Bank,9.8,89.15%,1.43%,79.09%
+Oct 2024,Punjab and Sind Bank,9.6,88.55%,0.37%,89.90%
+Oct 2024,Andhra Pragathi Grameena Bank,8.63,61.73%,5.04%,5.75%
+Oct 2024,Rajasthan Marudhara Gramin Bank,7.57,75.62%,10.19%,7.37%
+Oct 2024,Kerala Gramin Bank,7.18,87.13%,0.73%,87.28%
+Oct 2024,ESAF Small Finance Bank Ltd.,6.81,84.30%,3.81%,75.80%
+Oct 2024,RBL Bank,6.05,91.98%,0.15%,92.58%
+Oct 2024,Baroda Rajasthan Kshetriya Gramin Bank,5.75,87.79%,2.77%,33.87%
+Oct 2024,Sarva Haryana Gramin Bank,5.65,88.63%,3.19%,79.14%
+Oct 2024,Telangana Grameena bank,5.26,78.85%,5.96%,7.75%
+Sep 2022,State Bank Of India,1291.88,91.70%,1.21%,95.66%
+Sep 2022,HDFC Bank Ltd,406.61,94.01%,0.29%,91.30%
+Sep 2022,Bank of Baroda,299.12,92.13%,0.49%,98.88%
+Sep 2022,Union Bank of India,287.21,90.21%,0.97%,46.80%
+Sep 2022,ICICI Bank,274.0,95.14%,0.17%,69.88%
+Sep 2022,Paytm Payments Bank,262.28,94.95%,0.08%,94.04%
+Sep 2022,Axis Bank Ltd,243.68,95.25%,0.25%,97.79%
+Sep 2022,Punjab National Bank,213.48,92.49%,0.61%,90.03%
+Sep 2022,Canara Bank,206.3,92.47%,0.47%,92.99%
+Sep 2022,Kotak Mahindra Bank,186.34,94.30%,0.29%,86.27%
+Sep 2022,Bank of India,171.56,93.02%,1.60%,50.40%
+Sep 2022,Indian Bank,115.76,88.38%,5.33%,40.42%
+Sep 2022,Central Bank Of India,95.53,90.13%,2.90%,63.32%
+Sep 2022,IDBI Bank Limited,66.58,94.57%,0.75%,64.13%
+Sep 2022,Federal Bank,62.84,93.07%,1.55%,71.18%
+Sep 2022,Airtel Payments Bank,62.35,86.08%,1.98%,72.95%
+Sep 2022,Bank of Maharashtra,59.9,93.98%,0.66%,83.88%
+Sep 2022,Indian Overseas Bank,56.35,93.65%,0.32%,85.81%
+Sep 2022,Yes Bank Ltd,49.25,93.93%,0.15%,95.73%
+Sep 2022,UCO Bank,48.84,91.28%,1.25%,52.87%
+Sep 2022,India Post Payment Bank,46.7,76.03%,6.42%,15.73%
+Sep 2022,Karnataka Bank,43.45,88.64%,2.44%,32.26%
+Sep 2022,IndusInd Bank,39.77,90.66%,0.52%,92.96%
+Sep 2022,IDFC First Bank,27.57,92.69%,1.24%,32.94%
+Sep 2022,Karur Vysya Bank,27.44,90.87%,0.93%,66.96%
+Sep 2022,Fino Payments Bank,23.19,78.89%,2.44%,99.04%
+Sep 2022,Bandhan Bank,19.49,87.73%,1.28%,14.62%
+Sep 2022,South Indian Bank,19.31,92.59%,0.24%,95.71%
+Sep 2022,DBS Bank India Limited,17.27,92.94%,1.29%,53.46%
+Sep 2022,City Union Bank,14.54,89.16%,4.35%,66.19%
+Sep 2022,Citibank,14.16,94.68%,0.72%,99.50%
+Sep 2022,Equitas Small Finance Bank,13.53,83.50%,0.78%,82.94%
+Sep 2022,Andhra Pradesh Grameena Vikas Bank,12.37,67.73%,14.39%,5.74%
+Sep 2022,Standard Chartered,12.23,94.56%,2.00%,50.59%
+Sep 2022,Ujjivan Small Finance Bank,11.96,89.62%,2.57%,36.94%
+Sep 2022,Tamilnad Mercantile Bank,10.67,90.33%,0.91%,38.94%
+Sep 2022,Maharashtra Gramin Bank,10.52,82.13%,2.62%,15.73%
+Sep 2022,AU small Finance Bank,10.33,92.78%,0.86%,0.03%
+Sep 2022,Saraswat Bank,10.21,94.69%,0.43%,74.07%
+Sep 2022,Pragathi Krishna Gramin Bank,10.21,87.48%,1.11%,64.09%
+Sep 2022,Jammu and Kashmir Bank,9.8,89.15%,1.43%,79.09%
+Sep 2022,Punjab and Sind Bank,9.6,88.55%,0.37%,89.90%
+Sep 2022,Andhra Pragathi Grameena Bank,8.63,61.73%,5.04%,5.75%
+Sep 2022,Rajasthan Marudhara Gramin Bank,7.57,75.62%,10.19%,7.37%
+Sep 2022,Kerala Gramin Bank,7.18,87.13%,0.73%,87.28%
+Sep 2022,ESAF Small Finance Bank Ltd.,6.81,84.30%,3.81%,75.80%
+Sep 2022,RBL Bank,6.05,91.98%,0.15%,92.58%
+Sep 2022,Baroda Rajasthan Kshetriya Gramin Bank,5.75,87.79%,2.77%,33.87%
+Sep 2022,Sarva Haryana Gramin Bank,5.65,88.63%,3.19%,79.14%
+Sep 2022,Telangana Grameena bank,5.26,78.85%,5.96%,7.75%
+Sep 2023,State Bank Of India,1291.88,91.70%,1.21%,95.66%
+Sep 2023,HDFC Bank Ltd,406.61,94.01%,0.29%,91.30%
+Sep 2023,Bank of Baroda,299.12,92.13%,0.49%,98.88%
+Sep 2023,Union Bank of India,287.21,90.21%,0.97%,46.80%
+Sep 2023,ICICI Bank,274.0,95.14%,0.17%,69.88%
+Sep 2023,Paytm Payments Bank,262.28,94.95%,0.08%,94.04%
+Sep 2023,Axis Bank Ltd,243.68,95.25%,0.25%,97.79%
+Sep 2023,Punjab National Bank,213.48,92.49%,0.61%,90.03%
+Sep 2023,Canara Bank,206.3,92.47%,0.47%,92.99%
+Sep 2023,Kotak Mahindra Bank,186.34,94.30%,0.29%,86.27%
+Sep 2023,Bank of India,171.56,93.02%,1.60%,50.40%
+Sep 2023,Indian Bank,115.76,88.38%,5.33%,40.42%
+Sep 2023,Central Bank Of India,95.53,90.13%,2.90%,63.32%
+Sep 2023,IDBI Bank Limited,66.58,94.57%,0.75%,64.13%
+Sep 2023,Federal Bank,62.84,93.07%,1.55%,71.18%
+Sep 2023,Airtel Payments Bank,62.35,86.08%,1.98%,72.95%
+Sep 2023,Bank of Maharashtra,59.9,93.98%,0.66%,83.88%
+Sep 2023,Indian Overseas Bank,56.35,93.65%,0.32%,85.81%
+Sep 2023,Yes Bank Ltd,49.25,93.93%,0.15%,95.73%
+Sep 2023,UCO Bank,48.84,91.28%,1.25%,52.87%
+Sep 2023,India Post Payment Bank,46.7,76.03%,6.42%,15.73%
+Sep 2023,Karnataka Bank,43.45,88.64%,2.44%,32.26%
+Sep 2023,IndusInd Bank,39.77,90.66%,0.52%,92.96%
+Sep 2023,IDFC First Bank,27.57,92.69%,1.24%,32.94%
+Sep 2023,Karur Vysya Bank,27.44,90.87%,0.93%,66.96%
+Sep 2023,Fino Payments Bank,23.19,78.89%,2.44%,99.04%
+Sep 2023,Bandhan Bank,19.49,87.73%,1.28%,14.62%
+Sep 2023,South Indian Bank,19.31,92.59%,0.24%,95.71%
+Sep 2023,DBS Bank India Limited,17.27,92.94%,1.29%,53.46%
+Sep 2023,City Union Bank,14.54,89.16%,4.35%,66.19%
+Sep 2023,Citibank,14.16,94.68%,0.72%,99.50%
+Sep 2023,Equitas Small Finance Bank,13.53,83.50%,0.78%,82.94%
+Sep 2023,Andhra Pradesh Grameena Vikas Bank,12.37,67.73%,14.39%,5.74%
+Sep 2023,Standard Chartered,12.23,94.56%,2.00%,50.59%
+Sep 2023,Ujjivan Small Finance Bank,11.96,89.62%,2.57%,36.94%
+Sep 2023,Tamilnad Mercantile Bank,10.67,90.33%,0.91%,38.94%
+Sep 2023,Maharashtra Gramin Bank,10.52,82.13%,2.62%,15.73%
+Sep 2023,AU small Finance Bank,10.33,92.78%,0.86%,0.03%
+Sep 2023,Saraswat Bank,10.21,94.69%,0.43%,74.07%
+Sep 2023,Pragathi Krishna Gramin Bank,10.21,87.48%,1.11%,64.09%
+Sep 2023,Jammu and Kashmir Bank,9.8,89.15%,1.43%,79.09%
+Sep 2023,Punjab and Sind Bank,9.6,88.55%,0.37%,89.90%
+Sep 2023,Andhra Pragathi Grameena Bank,8.63,61.73%,5.04%,5.75%
+Sep 2023,Rajasthan Marudhara Gramin Bank,7.57,75.62%,10.19%,7.37%
+Sep 2023,Kerala Gramin Bank,7.18,87.13%,0.73%,87.28%
+Sep 2023,ESAF Small Finance Bank Ltd.,6.81,84.30%,3.81%,75.80%
+Sep 2023,RBL Bank,6.05,91.98%,0.15%,92.58%
+Sep 2023,Baroda Rajasthan Kshetriya Gramin Bank,5.75,87.79%,2.77%,33.87%
+Sep 2023,Sarva Haryana Gramin Bank,5.65,88.63%,3.19%,79.14%
+Sep 2023,Telangana Grameena bank,5.26,78.85%,5.96%,7.75%
+Sep 2024,State Bank Of India,1291.88,91.70%,1.21%,95.66%
+Sep 2024,HDFC Bank Ltd,406.61,94.01%,0.29%,91.30%
+Sep 2024,Bank of Baroda,299.12,92.13%,0.49%,98.88%
+Sep 2024,Union Bank of India,287.21,90.21%,0.97%,46.80%
+Sep 2024,ICICI Bank,274.0,95.14%,0.17%,69.88%
+Sep 2024,Paytm Payments Bank,262.28,94.95%,0.08%,94.04%
+Sep 2024,Axis Bank Ltd,243.68,95.25%,0.25%,97.79%
+Sep 2024,Punjab National Bank,213.48,92.49%,0.61%,90.03%
+Sep 2024,Canara Bank,206.3,92.47%,0.47%,92.99%
+Sep 2024,Kotak Mahindra Bank,186.34,94.30%,0.29%,86.27%
+Sep 2024,Bank of India,171.56,93.02%,1.60%,50.40%
+Sep 2024,Indian Bank,115.76,88.38%,5.33%,40.42%
+Sep 2024,Central Bank Of India,95.53,90.13%,2.90%,63.32%
+Sep 2024,IDBI Bank Limited,66.58,94.57%,0.75%,64.13%
+Sep 2024,Federal Bank,62.84,93.07%,1.55%,71.18%
+Sep 2024,Airtel Payments Bank,62.35,86.08%,1.98%,72.95%
+Sep 2024,Bank of Maharashtra,59.9,93.98%,0.66%,83.88%
+Sep 2024,Indian Overseas Bank,56.35,93.65%,0.32%,85.81%
+Sep 2024,Yes Bank Ltd,49.25,93.93%,0.15%,95.73%
+Sep 2024,UCO Bank,48.84,91.28%,1.25%,52.87%
+Sep 2024,India Post Payment Bank,46.7,76.03%,6.42%,15.73%
+Sep 2024,Karnataka Bank,43.45,88.64%,2.44%,32.26%
+Sep 2024,IndusInd Bank,39.77,90.66%,0.52%,92.96%
+Sep 2024,IDFC First Bank,27.57,92.69%,1.24%,32.94%
+Sep 2024,Karur Vysya Bank,27.44,90.87%,0.93%,66.96%
+Sep 2024,Fino Payments Bank,23.19,78.89%,2.44%,99.04%
+Sep 2024,Bandhan Bank,19.49,87.73%,1.28%,14.62%
+Sep 2024,South Indian Bank,19.31,92.59%,0.24%,95.71%
+Sep 2024,DBS Bank India Limited,17.27,92.94%,1.29%,53.46%
+Sep 2024,City Union Bank,14.54,89.16%,4.35%,66.19%
+Sep 2024,Citibank,14.16,94.68%,0.72%,99.50%
+Sep 2024,Equitas Small Finance Bank,13.53,83.50%,0.78%,82.94%
+Sep 2024,Andhra Pradesh Grameena Vikas Bank,12.37,67.73%,14.39%,5.74%
+Sep 2024,Standard Chartered,12.23,94.56%,2.00%,50.59%
+Sep 2024,Ujjivan Small Finance Bank,11.96,89.62%,2.57%,36.94%
+Sep 2024,Tamilnad Mercantile Bank,10.67,90.33%,0.91%,38.94%
+Sep 2024,Maharashtra Gramin Bank,10.52,82.13%,2.62%,15.73%
+Sep 2024,AU small Finance Bank,10.33,92.78%,0.86%,0.03%
+Sep 2024,Saraswat Bank,10.21,94.69%,0.43%,74.07%
+Sep 2024,Pragathi Krishna Gramin Bank,10.21,87.48%,1.11%,64.09%
+Sep 2024,Jammu and Kashmir Bank,9.8,89.15%,1.43%,79.09%
+Sep 2024,Punjab and Sind Bank,9.6,88.55%,0.37%,89.90%
+Sep 2024,Andhra Pragathi Grameena Bank,8.63,61.73%,5.04%,5.75%
+Sep 2024,Rajasthan Marudhara Gramin Bank,7.57,75.62%,10.19%,7.37%
+Sep 2024,Kerala Gramin Bank,7.18,87.13%,0.73%,87.28%
+Sep 2024,ESAF Small Finance Bank Ltd.,6.81,84.30%,3.81%,75.80%
+Sep 2024,RBL Bank,6.05,91.98%,0.15%,92.58%
+Sep 2024,Baroda Rajasthan Kshetriya Gramin Bank,5.75,87.79%,2.77%,33.87%
+Sep 2024,Sarva Haryana Gramin Bank,5.65,88.63%,3.19%,79.14%
+Sep 2024,Telangana Grameena bank,5.26,78.85%,5.96%,7.75%
